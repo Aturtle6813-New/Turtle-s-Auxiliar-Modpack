@@ -1,0 +1,13 @@
+name = "Simple Server Links"
+filename = "simple-server-links-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/U9MXG9UI/versions/LdRUojjV/simple-server-links-2.0.0.jar"
+hash-format = "sha512"
+hash = "4e8595e997eb779c32ee3e230f7fb162490704682137c7be5280746b393807625b60582eb1746f176841d29cdb501ce09d9b14c02550c6b246c7d89e926b9b8c"
+
+[update]
+[update.modrinth]
+mod-id = "U9MXG9UI"
+version = "LdRUojjV"

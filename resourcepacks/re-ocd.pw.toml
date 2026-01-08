@@ -1,0 +1,13 @@
+name = "rE-oCd"
+filename = "rE-oCd-12110.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lkoaSYls/versions/CtapFzCR/rE-oCd-12110.zip"
+hash-format = "sha512"
+hash = "1907135386b195945cc463267c1cf4639cefdd4b6dacd3fb046cf8634e23373fa655861923f7fe0946bc5cb3e7b8d742d793bcc9f93fd2112f1835491281c424"
+
+[update]
+[update.modrinth]
+mod-id = "lkoaSYls"
+version = "CtapFzCR"
