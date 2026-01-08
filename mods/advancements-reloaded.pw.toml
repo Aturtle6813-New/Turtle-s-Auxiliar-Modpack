@@ -1,13 +1,13 @@
 name = "AdvancementInfo Reloaded"
-filename = "advancements_reloaded-0.12.0-fabric-1.21.11.jar"
+filename = "advancements_reloaded-0.11.1-fabric-1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/7Q8Egosy/advancements_reloaded-0.12.0-fabric-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/r3cs0Pis/advancements_reloaded-0.11.1-fabric-1.21.10.jar"
 hash-format = "sha512"
-hash = "2ecae209d940ea5bf4e7f47efb2a118cb4009683b6265e204deb9395139641e27addc49d0a0da228715bc32e31e98069bcf29d358afebba29a211664505126db"
+hash = "68de284687d397d591b31a52706aa5e2ce8ac997e3abad86b980b4ce5ca4e7237eae59f1d0e33713a2cb80d0f1fd7e395c0ce4922bce435b270e05fe7496a314"
 
 [update]
 [update.modrinth]
 mod-id = "tLuRLqpa"
-version = "7Q8Egosy"
+version = "r3cs0Pis"

@@ -1,0 +1,13 @@
+name = "Hurricane"
+filename = "hurricane-neoforge-2.1.0+build.183.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKrS5WCg/versions/R9YqAnmb/hurricane-neoforge-2.1.0%2Bbuild.183.jar"
+hash-format = "sha512"
+hash = "24ff482f0b985bf2f59452107a63891f0602a1f18491b02eb751fbbeaa8db5ec50552ff112fb04fdf0dee7b8bb8dfedc28ca450f25ecb56f2283aa1fc7692c42"
+
+[update]
+[update.modrinth]
+mod-id = "cKrS5WCg"
+version = "R9YqAnmb"
