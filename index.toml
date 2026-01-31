@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
@@ -108,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "dfe8e77622cb5d8c12a70cc269f5c88a80ffdb190e48049ca890d65c391bd4e3"
+hash = "1fbf9c1961191d7246387b0c95bf48242b595f999af0c64401cac6b15a11be22"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b8ff7eec6e9442a39b57fea23794ad01a5473f435e57699151cec08c83c54fb2"
+hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ hash = "15b8a75b2c9b74fd091b7cac854a8cf53a18b10b0b9c913b355753b9e9d7bccf"
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"
-hash = "0591a8a843cce1725b69794b25916dcd9763ac252d6e380c61a5925ff28b8bd3"
+hash = "c7e9418b28c5f7355f3782d8f46d28a5d67b7587cc007d0f4899df26cdc0797f"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "af8dc072b8d618de96260fccfa5fab7f79c5ca9679bc3a57473f6df4ce218fff"
+hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
 metafile = true
 
 [[files]]
@@ -251,17 +251,13 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
-file = "mods/fastquit-3.1.3+mc1.21.11.jar"
-hash = "1a25c564f3c5c79a0313ed24e85e0eef9d5ddb302bc469f5ef995e28c97c7e12"
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
@@ -291,17 +287,17 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "81d4f18d302651eaa4ddeda84519f3709a9fa5c8842e866bbe166e864dbaa6d3"
+hash = "b21b68650063888724f29bb2ab3a9e6a419bfde0018029fa711800ee02510220"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "0c5711c127151a44a2c55bd2ceb4f37389dcda40176b61232001b9bd40fc5332"
+hash = "d8ba07bc2fb9e865aa02ca79a7b5a5c4f940a39af04c56d97b977bc6b5f6da95"
 metafile = true
 
 [[files]]
 file = "mods/hey-wiki.pw.toml"
-hash = "b6a6389e30ec48f73b2afb2d6a0931feaba44ebc0ac1b7512bf7217f35232a7e"
+hash = "ae6f241f6d84017ccb5a61f64e2e4cf6bb54eb32dc893506eac396d1b0556f4c"
 metafile = true
 
 [[files]]
@@ -316,12 +312,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
@@ -446,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/one-world-folder.pw.toml"
-hash = "57bfb7ac2dd37703d47fd665f80ef4ec2d4bb787c582f79e3ff8311b256f7d37"
+hash = "0ca8c3efb14fe579d81e9d2aada908f373a7bf9bb6a1dfc8ccf26c3037595a7d"
 metafile = true
 
 [[files]]
@@ -516,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "2543ebecbb1e471047e1be433098615bbe4d65a51e1bcf80bd717952452ed36d"
+hash = "3cdd3fe6900490f6afb0d965b50ad526c977f8ab0714b091c42f77c6e5325b15"
 metafile = true
 
 [[files]]
@@ -556,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-core-shader-support.pw.toml"
-hash = "92d5863cfbbb6676144d136d74199ac9fa14b44127c7f63ed58467c0ebb9a450"
+hash = "2876f4b513130d2452357dec05d7e43760d9900b23e7f892b9497b485703ea6e"
 metafile = true
 
 [[files]]
@@ -571,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
@@ -615,12 +611,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "26ef42ac859897c373a9b1556db154a0d227e2399a11cbcafde5e7ed8a7969b4"
+hash = "8216a46c6b22fd9918cf835b87f7ea7a26ef02496a5162de23db9474de9408f9"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5aed63b141e338e9eace980e591b108312cb68d053b33eb54f2a2d749cc20514"
+hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
 metafile = true
 
 [[files]]
@@ -719,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "59ca90cb58fbcf1b50f23496492e5abb23139c829287571a40eac41e27317478"
+hash = "a14ab350f9b3e15fb83d85ede489e06a0a44660f6a938db3b693fbf0c4ef87f3"
 metafile = true
 
 [[files]]
@@ -739,12 +735,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
 metafile = true
 
 [[files]]
