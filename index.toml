@@ -436,11 +436,6 @@ hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "71b958da348c24e0c1da8b40f8d6850c675761bb300e1bb3ab4047b4f956038b"
-metafile = true
-
-[[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "0ca8c3efb14fe579d81e9d2aada908f373a7bf9bb6a1dfc8ccf26c3037595a7d"
 metafile = true
