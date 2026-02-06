@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-org-addition.pw.toml"
-hash = "314508d285132f13c9cd6d815512571c16bbbeff8da95b458ee6e33376e6a8fd"
+hash = "7cd110afc2f4b4a465ba89b38aec769d86aeead88847def021eba72955d860dc"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "a9efc86af6af3703d45915131724e3b04fd79de6ca4c6c0687ad0f02157e8fb8"
+hash = "425154e8bbff5b96c7c51400b114ba7c3b3f9563b9841e67733941d9d35ace21"
 metafile = true
 
 [[files]]
@@ -433,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "44ca3d479ef8f74aed42c90988aa179e45a768273b1f9e3c30b17f04c1e98e13"
 metafile = true
 
 [[files]]
@@ -626,12 +631,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "84f0e0e59bff27bd67a32ea451a1d43072f2594e5402433fd38141737e685366"
+hash = "fc71b7f81242b180ad889d456df4320b77e2a4f7221d79f3eecd3f8d355523d1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f0b9a1273581de2539087dca057bb9d2d04c8f9554fa9a4203c4750b9ce36f8a"
+hash = "d99e7fcd2c38c24c700b3037ac89b284638b920cccc270f18bc28c9e02fa08c1"
 metafile = true
 
 [[files]]
