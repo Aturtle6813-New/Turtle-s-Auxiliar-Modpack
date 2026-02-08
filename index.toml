@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e1ab53bccb771338e53e680114b90832a392ae9181922dd3eac6b670f280807e"
+hash = "a62b32b21c47b6132e7ffd297a3cf457b24e6d789070957528f83386967557d8"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "db278da4715600e9b96dfd79437f9cd70c5dfb7502be462dff790d570a9fb003"
+hash = "82e70d274662876a9691d741a105c9762266ecac72f663e5c1d8f0e1bf35cc19"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
+hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
 metafile = true
 
 [[files]]
