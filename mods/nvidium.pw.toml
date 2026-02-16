@@ -1,6 +1,6 @@
 name = "nvidium"
 filename = "nvidium-0.4.3-beta5-1.21.11.jar"
-side = "both"
+side = "client"
 pin = true
 
 [download]
