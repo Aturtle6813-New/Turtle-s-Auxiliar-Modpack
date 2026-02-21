@@ -586,8 +586,9 @@ hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak-fabric-0.1.7+mc1.21.9.jar"
-hash = "5cc2389a3b089929f8504f247cc39285ffd1171329bd56281229b6c7afcf7018"
+file = "mods/threadtweak.pw.toml"
+hash = "7c3e4630b35b3525d740be5b81b69af1462c8431a617233f9b0dadebb28a4f54"
+metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
