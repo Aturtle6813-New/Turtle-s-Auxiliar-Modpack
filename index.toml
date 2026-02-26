@@ -137,7 +137,7 @@ hash = "15b8a75b2c9b74fd091b7cac854a8cf53a18b10b0b9c913b355753b9e9d7bccf"
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"
-hash = "c7e9418b28c5f7355f3782d8f46d28a5d67b7587cc007d0f4899df26cdc0797f"
+hash = "5c1519fec90413378e6043a1e7866db2d19278d51d4f5c73ed1fcd48cad58888"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "5c440a15e6e584a39586d0390dd83d5ce2a00e0d93aa0b1f86f58f1c54d97d28"
+hash = "79641d52e42757542b18e8d7ceabfb8858c672166f5f8a9d3c72611f5e6fe360"
 metafile = true
 
 [[files]]
@@ -282,12 +282,12 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "b21b68650063888724f29bb2ab3a9e6a419bfde0018029fa711800ee02510220"
+hash = "56e44fff133441a58706ead877ea6c2892d48d02244be594422c32b26904a2b9"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "7eee91f9dcf7bf16980509b7123ee30c3fb78c6775684d1e0931a1c9668e05ce"
+hash = "a72e2aa67e0986e3bb057039b0c4be86b157c646f43fb94dd43189d8cf6a6edc"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
+hash = "40c04a15c3ee0b278fd4c0bafd56a1d4ba4d4b609701a078c1f8dbda678c58a6"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "7570d478d232ee993751a2df85e9ee073986f99e7412059c238a1b29f26ae817"
+hash = "c5978fbcc7ec445fe048148c611d77d0a5d5108f147c5b047beea3e88374b3c8"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
