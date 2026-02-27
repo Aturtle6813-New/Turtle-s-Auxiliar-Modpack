@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "d5c18da73ceb5ad18a9ec6de5e7ca9afb12f7154125364b9dfec8fee017c2829"
+hash = "a43a5fda6eeed1d410d64b2dc0c42a7e72810df2dcf8c72f5d22fd4bee2345da"
 metafile = true
 
 [[files]]
@@ -356,6 +356,10 @@ hash = "59d092d4627a3a2c01ba0c621e0de6e09d6b7c04e1f3230cd735740c4f1ea537"
 metafile = true
 
 [[files]]
+file = "mods/litematica-printer-versionpack-1.2.3-dev+260226+build.265.jar"
+hash = "f53395380a03763374d7ef54d8a8ed62b9115d71787e433bc9d0c0aa893c6fc8"
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "590d8c454461493a6a60a6efe9a43bcb94231e7b55c7382f1aa209ad7a572f99"
 metafile = true
@@ -442,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "1964fd3c3ffdc01dc769be1ebc1268a96daa4f34dce34c270d8d3e2dacbb190a"
+hash = "35a5a8a0cada2865a5f10c483c4e8a0f0884db4ab78982040cc3bc45d25c978c"
 metafile = true
 
 [[files]]
