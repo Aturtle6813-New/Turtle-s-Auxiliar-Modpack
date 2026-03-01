@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "8d24c50e86aad7649057b65c47ea5dddffa6b3aecf5bfe31f63bb40ced4973c7"
+hash = "41e20e663cba5b05aa5672fe703092aa1db34633956241f0cbfc76b85128c7d5"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "fdb35d4fa03cd54f87c72acaca23a3c5b665321253f30f4d6d06b3c5accf9450"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "967fdea45f8b6f0c796a6fc586a8797c490a494fc243b22143590b652bd1521f"
+hash = "4ab6447939e0d02a7b891f9067404860b1951c8efde2a28865920ab31cffc743"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-core-shader-support.pw.toml"
-hash = "2876f4b513130d2452357dec05d7e43760d9900b23e7f892b9497b485703ea6e"
+hash = "186fe90f98578ff085960960a28bdc435258e47b777d43da940373e35381168f"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+hash = "7d5967a6fd97f0ae7107bdaf548061ec54bff059fee062f785f80becc44d0e55"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a16e99bb12aedc0c132a6c4093e045294d0be708711c4f0a92c9dd8c773c998e"
+hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
 metafile = true
 
 [[files]]
