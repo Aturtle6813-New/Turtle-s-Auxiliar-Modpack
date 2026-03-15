@@ -96,6 +96,11 @@ hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -544,11 +549,6 @@ hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
 
 [[files]]
-file = "mods/simple-server-links.pw.toml"
-hash = "e109001c82d27fa93bcd1bc1df917cd98dcc9190a2761029929d96546ffcfe57"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
@@ -594,9 +594,8 @@ hash = "7c3e4630b35b3525d740be5b81b69af1462c8431a617233f9b0dadebb28a4f54"
 metafile = true
 
 [[files]]
-file = "mods/tweakermore.pw.toml"
-hash = "553a41534b30e13212fde52314d81f3f565c565ff8c8e91dbebe49e36ed51afe"
-metafile = true
+file = "mods/tweakermore-v3.29.1-mc1.21.11+build.878.jar"
+hash = "fef858fd3ba649cb6e767fca8e09d9d05a2a0af1db97538a5b6c12d911edead7"
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
