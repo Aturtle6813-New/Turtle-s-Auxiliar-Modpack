@@ -1,13 +1,13 @@
 name = "GugleCarpetAddition"
-filename = "gugle-carpet-addition-mc1.21.11-v2.11.2+build.46.jar"
+filename = "gugle-carpet-addition-v2.11.5+build.58.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/UHjbX5mk/versions/OBoke1Fb/gugle-carpet-addition-mc1.21.11-v2.11.2%2Bbuild.46.jar"
+url = "https://cdn.modrinth.com/data/UHjbX5mk/versions/QtEoLkxy/gugle-carpet-addition-v2.11.5%2Bbuild.58.jar"
 hash-format = "sha512"
-hash = "806b6386e47e513b68527ae29d043a2ecfeaf3bf0aece4ebf213f071be4d6151fea50f4c58ff732d442e24873077dcab1028113fc41dd80f2f0174ba778744a7"
+hash = "c6c886b8b74ecabb158fd86a4dc8f239ba04c516608d6c6c59b85a5f20997743688783bc69bd8ec3dd2283d875c832eafb11bde3d2503c793941b198f5f18b94"
 
 [update]
 [update.modrinth]
 mod-id = "UHjbX5mk"
-version = "OBoke1Fb"
+version = "QtEoLkxy"

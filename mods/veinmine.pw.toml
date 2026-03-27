@@ -1,13 +1,13 @@
 name = "VeinMine"
-filename = "veinmine-1.3.5+1.21.11.jar"
+filename = "Veinmine-fabric-26.1-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jjXSQOGX/versions/wcOXKBfv/veinmine-1.3.5%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/jjXSQOGX/versions/p2bmqLvv/Veinmine-fabric-26.1-1.4.0.jar"
 hash-format = "sha512"
-hash = "79380bb716776b55f30aa760d55c864058e38ac8b85da0d460765a4b6e591b2bd504178b3d28500d34ee595dc07740fd85bda6ed9196314e48b969bad994cc91"
+hash = "eaef9f81d9ae6bc61b867a27e72206e6f2446da609d499fec325ba507eb6bcb07c0b7f0b3a78db8c672e6f9cd0c6dc711ebcdd3b5c557695149a8f83c9209921"
 
 [update]
 [update.modrinth]
 mod-id = "jjXSQOGX"
-version = "wcOXKBfv"
+version = "p2bmqLvv"

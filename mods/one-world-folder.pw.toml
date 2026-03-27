@@ -1,13 +1,13 @@
 name = "One World Folder"
-filename = "oneworldfolder-1.1.2-1.21.11.jar"
+filename = "oneworldfolder-1.1.3-26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JL35Xbzz/versions/SzguDt0V/oneworldfolder-1.1.2-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/JL35Xbzz/versions/Ed3TrCDe/oneworldfolder-1.1.3-26.1.jar"
 hash-format = "sha512"
-hash = "a842ea1daf568fc9c81746ad767494c5ff1398f682c79e97172c3371b7f1b5ef5b260b3a6d00267d73ea5cafa1a6a5ed49aa686fb1dd76b61c4708f8b5c2894e"
+hash = "8a134de8738bc2033ac1c25ac18d96201225d7470e09b9a4b138f71c5c3dfec04b1e76a3aa943f7dd684e9b03c4e20c97c8a85943818fefee1b9236faa8e1089"
 
 [update]
 [update.modrinth]
 mod-id = "JL35Xbzz"
-version = "SzguDt0V"
+version = "Ed3TrCDe"
