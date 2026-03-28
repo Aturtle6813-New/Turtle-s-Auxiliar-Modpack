@@ -231,11 +231,6 @@ hash = "4d2890f8a51f95df8dc6685b46ba82ef51f376bffbab48c85bf3ad9a7745d36f"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "f1e08f4ad778199468cad1c1baaec2144197f020bb51db6f6c619ed0286fa7f5"
-metafile = true
-
-[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
 metafile = true
@@ -413,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "b7910e5b4482b55f6a879b18977f5c53a6e30d12e06948d10b0778ae10266587"
-metafile = true
-
-[[files]]
-file = "mods/tweakermore.pw.toml"
-hash = "e1644658ed4f2b9f30a330533c9eddd1f1b439c21b34266d724543d9034adc12"
 metafile = true
 
 [[files]]
