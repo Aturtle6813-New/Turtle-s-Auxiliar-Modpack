@@ -91,6 +91,16 @@ hash = "5979da4f06033b5fd04d935c33e6bf3b6124dfcd23a413763fff9e37c7103e77"
 metafile = true
 
 [[files]]
+file = "mods/carpet-ams-addition.pw.toml"
+hash = "d8d11e6680e35d38bd8ffb276e547281c718ce3e202d9226579ad1889440cef3"
+metafile = true
+
+[[files]]
+file = "mods/carpet-org-addition.pw.toml"
+hash = "b8504720712a816ba24f10bd038797091562765637d0f8c9c1acbb2f945edc88"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "d5ff88e86f1835e6332f897b2634a399c8d42f1e0d3f6d1c773d490b9957b99d"
 metafile = true
@@ -296,6 +306,11 @@ hash = "4ae774627fde22e748ba11fbce113a13019d9ee519f1b851aaf83f79e8048b2f"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "b92e03a045817bc02c4ef68276c2855cc8b1d3ea9bc3833a0f134175b8d2495b"
 metafile = true
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "b7910e5b4482b55f6a879b18977f5c53a6e30d12e06948d10b0778ae10266587"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "e1644658ed4f2b9f30a330533c9eddd1f1b439c21b34266d724543d9034adc12"
 metafile = true
 
 [[files]]
