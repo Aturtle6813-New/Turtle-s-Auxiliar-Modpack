@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "52c72f2a3111b40128854657be3d08d7ec5a22a76c4bf3b73566df78a54d8130"
+hash = "9862490e2b66c0b1b47abce74b8142e6e5a448d7ae796a51c8c31c28fddde3dc"
 metafile = true
 
 [[files]]
@@ -133,6 +133,16 @@ metafile = true
 [[files]]
 file = "mods/caramel-chat.pw.toml"
 hash = "8d0e54dfff191fc0d2eb36f3a620ab296fc6c2578cddaeff02c5221d9479daa8"
+metafile = true
+
+[[files]]
+file = "mods/carpet-ams-addition.pw.toml"
+hash = "d8d11e6680e35d38bd8ffb276e547281c718ce3e202d9226579ad1889440cef3"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "d5ff88e86f1835e6332f897b2634a399c8d42f1e0d3f6d1c773d490b9957b99d"
 metafile = true
 
 [[files]]
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "ab5f1d331eede54c87a13d51c18dfae0a2df8fe83aa68d07c475030bfbbd869a"
+hash = "6623d21c80a36e97eaf2214e27353a116c8419c941c8e4e2c15e034e1fd98abd"
 metafile = true
 
 [[files]]
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
 metafile = true
 
 [[files]]
@@ -406,12 +416,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "c5978fbcc7ec445fe048148c611d77d0a5d5108f147c5b047beea3e88374b3c8"
+hash = "b92e03a045817bc02c4ef68276c2855cc8b1d3ea9bc3833a0f134175b8d2495b"
 metafile = true
 
 [[files]]
@@ -511,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "64157ece2ccf935a777510ff302800e8be8290f1043f60710ab65cf53f190515"
+hash = "6bf6e0e1b0cc1742f7e3ea65461168a50bd49526ffbeb453b34ee4bab3eb42c5"
 metafile = true
 
 [[files]]
@@ -546,12 +556,17 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "24257d31bef495857896e907be55a9e960c79b3dc4972a904869f529b33b2b25"
+hash = "b7910e5b4482b55f6a879b18977f5c53a6e30d12e06948d10b0778ae10266587"
 metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "7c3e4630b35b3525d740be5b81b69af1462c8431a617233f9b0dadebb28a4f54"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore(release).pw.toml"
+hash = "e1644658ed4f2b9f30a330533c9eddd1f1b439c21b34266d724543d9034adc12"
 metafile = true
 
 [[files]]
@@ -675,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c56825ef0f02e351c103d3eaf3ff204f881361f6c14c075f56754406db77ae08"
+hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
 metafile = true
 
 [[files]]
