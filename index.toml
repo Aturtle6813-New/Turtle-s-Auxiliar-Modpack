@@ -341,10 +341,6 @@ hash = "83ce6d277b02b2d55a9ad0d5a5900ef43562f4926e88a81b1ad904aeb63d5074"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer-versionpack-1.2.3-dev+260226+build.265.jar"
-hash = "f53395380a03763374d7ef54d8a8ed62b9115d71787e433bc9d0c0aa893c6fc8"
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "94d7bb39b8ec02e47d319222db23c6d57da2a4ce9195e111f9822f40fefb299f"
 metafile = true
@@ -602,16 +598,6 @@ metafile = true
 [[files]]
 file = "mods/x+-autofish.pw.toml"
 hash = "b268d34f920021e6ca90d4cce6ce6201a42c45043f716ae8c4da8418a5c2013f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a32535443e03e919c37fcc083fd2d0f5663052bf39b4695f4d0b06708cda6fac"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "2934c396d25b22bbd9f5953913f701b8cca605c2a6fe7209cff9219350b37323"
 metafile = true
 
 [[files]]
