@@ -61,6 +61,11 @@ file = "config/yosbr/options.txt"
 hash = "39822749d4c8be80e6685dc633a753cf732cad3b9de6631981dd0276359f8154"
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "2aff5b304a95332cb03b7aa2f5d4f890af00a80fc6e1065a285f6038d84d000f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "29be6fd74f960ca0d9e7015ebae1f83f629703bafa6bee8ab30e7504193ff24f"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "88564dd444864a32710007583bf715a361e94ca72c99517ff5b98ef24d4649b4"
 metafile = true
 
 [[files]]
@@ -237,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "2bb10fbdc87160053ce5dbe3f26cc575a1f156168433284186f68df661294aba"
+hash = "456f6a6533ce7aa1007746ed32d20d7116536ecef443e4eb2e3ddb7e5971ab0b"
 metafile = true
 
 [[files]]
@@ -586,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
+hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
 metafile = true
 
 [[files]]
