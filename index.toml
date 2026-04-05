@@ -117,7 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "d8d11e6680e35d38bd8ffb276e547281c718ce3e202d9226579ad1889440cef3"
+hash = "6eb85c2b48df9dbd959252dca0ab4c0ee7e731a41052badebf3b51662d168d63"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "4a9219bca72c2b55194783019b907d433e6ee1da2ef018d804542a477da502f8"
 metafile = true
 
 [[files]]
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "867c25b4bcdae6e383df2e5b935cf4646bf3d51b4206e657109fbdc91537371b"
+hash = "07f20b962168742bfc4468763fa4c327277c536a0e0ebc323cfaf9ef6edaec3d"
 metafile = true
 
 [[files]]
@@ -357,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "b92e03a045817bc02c4ef68276c2855cc8b1d3ea9bc3833a0f134175b8d2495b"
+hash = "b8df7b01d4daca71339283a42f38e479211405872cb88cd42ae20eae5ccf8325"
 metafile = true
 
 [[files]]
@@ -407,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "84ed0655a8fcc13bfe59c837f7ea93ab855a381961ff54eaf35a13deb5edf509"
+hash = "d3be8f3f4d14bb2878babdb90a320f0c6b8373fd547eef41ac37f69709c4d62f"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "41bd3bbbafd50fbd59b5d7c2306a7173a0b80b2549967101a999dc74d876d158"
+hash = "2a88c0bafbc50cb17a7a5e5d22ffa7b2e60ffe596d620b7716c67e637dcfa7bb"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b3abe623ed0aa17a0d52c40b975abf8078898355738317a851f96e712a61bcbb"
+hash = "fc571334ec55dd1b218bc62b43bcb4d5b281ed3194c09fcb43cbbd055c8e6bcc"
 metafile = true
 
 [[files]]
