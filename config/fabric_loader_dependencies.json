@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "skyboxify": {
+      "depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}
