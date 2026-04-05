@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "9f67b23e87e9d70905bb0deecbadedab8e7748b3fd16b3e90d4f1fafa86e4b4b"
+hash = "5744b56a958d454adbf2d859355d56a376ad1f70161f75bad53a53c0b513567c"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6623d21c80a36e97eaf2214e27353a116c8419c941c8e4e2c15e034e1fd98abd"
+hash = "62cb15939c63e5177a7a8b3a9088018f039a3f9bc4d886d6f9fe8bfd8aab636e"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "325cbbe216158d731cf8722660ad611fa5a1bc2930b0e192e695709c48b0b0bb"
+hash = "9475d0144b42f0713bfd1970dda580cf69b7916f68ce06aec5cb401b4e663ac1"
 metafile = true
 
 [[files]]
