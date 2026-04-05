@@ -5,6 +5,10 @@ file = "config/debugify.json"
 hash = "7cd7ec6d9728daf8140fbfca14caa93a2c312c19c7483a206aba8e28d5105500"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8eb24141c0e9edbb8ebf50a1e9a66a2b1a7411dfbb94e3ea05d1fd8e9da828db"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
@@ -188,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "a94a6c07a60ac4a15339261c95f541014de9cb79742ad0839738691faf571d8d"
 metafile = true
 
 [[files]]
@@ -458,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2a88c0bafbc50cb17a7a5e5d22ffa7b2e60ffe596d620b7716c67e637dcfa7bb"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
 metafile = true
 
 [[files]]
