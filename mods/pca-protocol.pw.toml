@@ -1,13 +1,13 @@
 name = "pca-protocol"
-filename = "pca-protocol-v0.3.13-mc1.21.8.jar"
+filename = "pca-protocol-v0.3.13-mc1.21.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/DTjVkI5f/versions/PuS7nRfN/pca-protocol-v0.3.13-mc1.21.8.jar"
+url = "https://cdn.modrinth.com/data/DTjVkI5f/versions/MKGERZib/pca-protocol-v0.3.13-mc1.21.11.jar"
 hash-format = "sha512"
-hash = "cabde5ccb426709235827a89d14aed4dc6d59b09437396b9e2711311cc1bd6d39afebf2e84f197378d8b2889203ac6b671f88b7bca05a660a0dbb64d56251476"
+hash = "f3806611662032ccc2aec1acc6048ae7d8aea56bc5b923ebc264a59255806e0fb68ef12c35829b033e4760496dc0696a136c6f887c467dd0ae601d01b8c04208"
 
 [update]
 [update.modrinth]
 mod-id = "DTjVkI5f"
-version = "PuS7nRfN"
+version = "MKGERZib"

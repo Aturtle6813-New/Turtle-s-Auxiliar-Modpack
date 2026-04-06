@@ -165,11 +165,6 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "3b11e1b0eef02bfd12bcefd962c28c5aae06a2e1afade1e9c43ec36936aeb22d"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "f28b66eef63c744764e6719852e24d92f872600fecb5f1c33e2f19d33601c2ff"
 metafile = true
@@ -201,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "584afbe823aec7afa13f8f96b08607c7cd369384cc72d5c22ebf78adbf88ed2d"
+hash = "4daa329acbe2f9aa94cf4ec6b83370c2809ed69ca4e1ac49e7f90576d00f35a7"
 metafile = true
 
 [[files]]
@@ -351,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ece202c9d736d9ba378b618d07eee905f1f7d4a94e69e9b759a88813bd2d7566"
+hash = "1692f3831cb9665bb10ccdcc4c5bba4bcca5fa4d197073e686d6c8ce0c7402c2"
 metafile = true
 
 [[files]]
@@ -381,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/pca-protocol.pw.toml"
-hash = "e232a6ae217dd24f772d0702d6c56cd6bb5eece951b890c534958ce2962c9862"
+hash = "9eaac49e9c24bc18fe898c0e07172b74ca28d98800fe2f9be3bc9bb822572a01"
 metafile = true
 
 [[files]]
@@ -457,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2a88c0bafbc50cb17a7a5e5d22ffa7b2e60ffe596d620b7716c67e637dcfa7bb"
-metafile = true
-
-[[files]]
-file = "mods/skyboxify.pw.toml"
-hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
 metafile = true
 
 [[files]]
