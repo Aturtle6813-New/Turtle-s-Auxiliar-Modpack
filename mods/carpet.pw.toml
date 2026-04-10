@@ -1,6 +1,7 @@
 name = "fabric-carpet"
 filename = "fabric-carpet-26.1+v260402.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://github.com/gnembon/fabric-carpet/releases/download/v26.1/fabric-carpet-26.1%2Bv260402.jar"
