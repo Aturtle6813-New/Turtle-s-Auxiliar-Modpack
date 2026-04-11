@@ -125,11 +125,6 @@ hash = "88199953bf9e5bd3e17afd04a2ab56f50806081be15fc464bcb3722b22269e9d"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra-extras.pw.toml"
-hash = "4a9219bca72c2b55194783019b907d433e6ee1da2ef018d804542a477da502f8"
-metafile = true
-
-[[files]]
 file = "mods/carpet-org-addition.pw.toml"
 hash = "44e15ff1c23ae6169da46236f62597c5286390246d11004792f7c0ba3cc306d6"
 metafile = true
@@ -172,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "a9abfaa52a15c9e65c48d420c9d3cc20c6a96c2edb37fe10b521c39215961ecc"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "6ff3c80beeca1b2ae78bde5948fdbf432413ebeed98e325368bc5cd098e1b4eb"
 metafile = true
 
 [[files]]
@@ -320,11 +310,6 @@ hash = "f94619f9e5aa689f1dcde4c59841ae50e6b8056abbaf57622c879444b0133faa"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
 metafile = true
@@ -437,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "abc0b0e0bb7584463e011100c8702a83645a8f392a077288cff7c26ade727775"
 metafile = true
 
 [[files]]
