@@ -185,8 +185,18 @@ hash = "62cb15939c63e5177a7a8b3a9088018f039a3f9bc4d886d6f9fe8bfd8aab636e"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "78f3792a4f71aaf37da694ecf7237c1077d76e5ffe8988a0cf7d562d6a376293"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "64057b038ef5c0a018ff00bb490be4161f98015b6fed1aee23700534adddad74"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "c4a7da58b8e66889559ee54c500349a94fbe70907383a01149f444947752bc4f"
 metafile = true
 
 [[files]]
@@ -371,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "b8df7b01d4daca71339283a42f38e479211405872cb88cd42ae20eae5ccf8325"
+hash = "82840fdbb76c3c520e495154213578c2a4900144bb2570d63dccc4ea2fadb35e"
 metafile = true
 
 [[files]]
@@ -401,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
@@ -615,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
+hash = "f598f0bd6f2c25bd1b5cdc8c31a50dc4e6ac51492b0665322dc70721307aa746"
 metafile = true
 
 [[files]]
