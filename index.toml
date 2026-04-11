@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "88564dd444864a32710007583bf715a361e94ca72c99517ff5b98ef24d4649b4"
+hash = "dfc75aeed47b7e89451b1bbfab36ce76ac867504cd372b58b12f6b992c41f6ab"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "6eb85c2b48df9dbd959252dca0ab4c0ee7e731a41052badebf3b51662d168d63"
+hash = "88199953bf9e5bd3e17afd04a2ab56f50806081be15fc464bcb3722b22269e9d"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "f28b66eef63c744764e6719852e24d92f872600fecb5f1c33e2f19d33601c2ff"
+hash = "6ff3c80beeca1b2ae78bde5948fdbf432413ebeed98e325368bc5cd098e1b4eb"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "07f20b962168742bfc4468763fa4c327277c536a0e0ebc323cfaf9ef6edaec3d"
+hash = "64057b038ef5c0a018ff00bb490be4161f98015b6fed1aee23700534adddad74"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8bd0d4409b2abd3c06e674be0de2c7529f40605e514f69692e7cdef374bc3a93"
+hash = "a87c3340cb7eecd74ee0fd5aa9c49496c7175a86fc3492527e38df6150f4e472"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/one-world-folder.pw.toml"
-hash = "1358851383798efb026f447aef8cbdec61299a48637cd3df8e0d2eafee76c50d"
+hash = "6d3d53c077406dcf54cdb69faf19b473424e0ad217740764b899edb58e43d27f"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "1ae408f6d0c5ba0b96ccdfcff43ea5065d79563ab05687d6d62b93d422a1f5b1"
+hash = "abc0b0e0bb7584463e011100c8702a83645a8f392a077288cff7c26ade727775"
 metafile = true
 
 [[files]]
@@ -466,12 +466,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2a88c0bafbc50cb17a7a5e5d22ffa7b2e60ffe596d620b7716c67e637dcfa7bb"
+hash = "04185c12844c8da7eb28121a0a6f43ad077751de120eca5fa2a2ab93b8e7a2d3"
 metafile = true
 
 [[files]]
 file = "mods/sodium-core-shader-support.pw.toml"
-hash = "c45dce4bcc2ff8b50c16e3b1e7b4748cee77214b825f5ab48b98b285910d3274"
+hash = "8c6d7b35c8a17fb98b0b783bc0313d82ae5ec2b45b9bdda7d3ca40e5cb83b942"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "358710fa16b1f522d8a3e9e1bce2304666dae85ca7970d1a9bec683a32b7b424"
+hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
 metafile = true
 
 [[files]]
