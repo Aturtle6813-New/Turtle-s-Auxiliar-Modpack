@@ -1,5 +1,6 @@
 name = "nvidium"
 filename = "nvidium-0.4.3-beta9-26.1.jar"
+side = "client"
 
 [download]
 url = "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta9/nvidium-0.4.3-beta9-26.1.jar"
