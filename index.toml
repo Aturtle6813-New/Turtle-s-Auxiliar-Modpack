@@ -505,6 +505,11 @@ hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "3d0b5dfde474285ec7980e955bbd5730e61049f3312c07e1b3aed6bc2da4a644"
+metafile = true
+
+[[files]]
 file = "mods/x+-autofish.pw.toml"
 hash = "b268d34f920021e6ca90d4cce6ce6201a42c45043f716ae8c4da8418a5c2013f"
 metafile = true
