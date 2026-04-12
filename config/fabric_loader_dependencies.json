@@ -1,7 +1,12 @@
 {
   "version": 1,
   "overrides": {
-    "skyboxify": {
+    "nvidium": {
+      "depends": {
+        "minecraft": ""
+      }
+    },
+    "lightconfig": {
       "depends": {
         "minecraft": ""
       }

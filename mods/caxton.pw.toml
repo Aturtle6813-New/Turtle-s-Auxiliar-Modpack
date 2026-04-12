@@ -1,16 +1,16 @@
 name = "Caxton"
-filename = "caxton-fabric-26.1-1.0.0-alpha.2.jar"
+filename = "caxton-fabric-26.1.2-1.0.0-alpha.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/s4hCKPtH/caxton-fabric-26.1-1.0.0-alpha.2.jar"
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/VYFlZA7n/caxton-fabric-26.1.2-1.0.0-alpha.3.jar"
 hash-format = "sha512"
-hash = "3cbdac91518c042eb36d3409cf0a9edbffdffbe87c1c11a2c6f9d5f288fc27c2d18b71cf16dfe01c67ef5c963d1dc57c2f399778c5a1e1446f346027c938a146"
+hash = "be7edc03bdf3fbb77b05e71c8e4b17b3183fdce641516537f36297a5328c93388e96a3d299b685ec15b1b532066c9f3b59e5342b229608615d3679b21cf863dc"
 
 [update]
 [update.modrinth]
 mod-id = "k8iIgzXE"
-version = "s4hCKPtH"
+version = "VYFlZA7n"
 
 [option]
 optional = true

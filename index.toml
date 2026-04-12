@@ -6,7 +6,7 @@ hash = "7cd7ec6d9728daf8140fbfca14caa93a2c312c19c7483a206aba8e28d5105500"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8eb24141c0e9edbb8ebf50a1e9a66a2b1a7411dfbb94e3ea05d1fd8e9da828db"
+hash = "e6dbc33db5bf5c702537c96e5435f5598f024b992ad78df7fbd9f4f17766dc56"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -125,6 +125,11 @@ hash = "88199953bf9e5bd3e17afd04a2ab56f50806081be15fc464bcb3722b22269e9d"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "f340e15ec29dd8124ade0fe973c7d884f9c5eab35388bf531c19fc9061916b75"
+metafile = true
+
+[[files]]
 file = "mods/carpet-org-addition.pw.toml"
 hash = "44e15ff1c23ae6169da46236f62597c5286390246d11004792f7c0ba3cc306d6"
 metafile = true
@@ -141,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "7ab97359cb2aa18d681f3ded19e37d48101f0435a7cea7112bc4327a8b7a6b3f"
+hash = "76e478da245b74a648c5885e0e96da00d43c52c0fc8cd7df924e82049ed1b5e4"
 metafile = true
 
 [[files]]
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "a9abfaa52a15c9e65c48d420c9d3cc20c6a96c2edb37fe10b521c39215961ecc"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "738cacea0362f1180c9d38510ef12f12d746aeb33a81bd5554119e6209065cb0"
 metafile = true
 
 [[files]]
@@ -375,11 +385,6 @@ hash = "6d3d53c077406dcf54cdb69faf19b473424e0ad217740764b899edb58e43d27f"
 metafile = true
 
 [[files]]
-file = "mods/optiboxes.pw.toml"
-hash = "dd3ba4e2a87613b77231e22dace3b40d1992d6b5c8d24ac78c77f0d4db958b2e"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
@@ -425,8 +430,8 @@ hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
-file = "mods/server-replay.pw.toml"
-hash = "4ab6447939e0d02a7b891f9067404860b1951c8efde2a28865920ab31cffc743"
+file = "mods/searchables.pw.toml"
+hash = "a606f6f9cebde93fb1e93548291dd40ab19786064fd61afb5d41195741b152eb"
 metafile = true
 
 [[files]]
@@ -635,5 +640,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+hash = "c5f5607e814ad098d4aa080d2675a610bbf388d1b04fd59f06aad8caa07c4020"
 metafile = true
