@@ -1,0 +1,18 @@
+name = "Floodgate"
+filename = "Floodgate-Fabric-2.2.6-b61.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bWrNNfkb/versions/KpQGJtqh/Floodgate-Fabric-2.2.6-b61.jar"
+hash-format = "sha512"
+hash = "e81aae7c9f403b41b39eaf3bee6590d42ad4d393d4aa30754cb130cb446c51cb418c5d21e1724bc7a537a93f289ce57b546d408253cab90b4c70d36daf4edd7b"
+
+[update]
+[update.modrinth]
+mod-id = "bWrNNfkb"
+version = "KpQGJtqh"
+
+[option]
+optional = true
+description = "Minecraft:Java Edition Account for Bedrock players that from Geyser"
+default = true
