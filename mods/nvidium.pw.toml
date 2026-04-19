@@ -1,8 +1,15 @@
 name = "nvidium"
-filename = "nvidium-0.4.3-beta9-26.1.jar"
-side = "client"
+filename = "nvidium-0.4.3-beta10-26.1.jar"
+side = "both"
 
 [download]
-url = "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta9/nvidium-0.4.3-beta9-26.1.jar"
+url = "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta10/nvidium-0.4.3-beta10-26.1.jar"
 hash-format = "sha256"
-hash = "9f38c1bb76ac6eb8a6f118c41e2977a892c378ddca507e3311507b4fb54b5c40"
+hash = "ca4643af4611310a6c3b960fe202c4c9833050b93383d104ef25afed7757ee50"
+
+[update]
+[update.github]
+branch = "26.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "drouarb/nvidium"
+tag = "0.4.3-beta10"

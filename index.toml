@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "738cacea0362f1180c9d38510ef12f12d746aeb33a81bd5554119e6209065cb0"
+hash = "bda25c04a035fbba2f748ae0e500ef1374107c1fa6abc3b29eb4c5ffe3c41815"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "a8b72bfc454596f28d055e8d01718c8011d4366ea6e4c8c12f3b4b9e282b1a8c"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "141d2ebe9438f340b9966955ad2dc4fa6d6d2bd272957f5c1d2b9173d5ec2824"
+hash = "12d82c5d4ea0b2ef84ac8e19c27a5acf80f995a7660d8d42323993a6304d0e03"
 metafile = true
 
 [[files]]
