@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7274e4e49fbbe4868923d8c8c95f91e2baad0deef7c52659b3c8ab00c1be6b42"
+hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b7b5d17a9d618a5819c2ae0b0d25f2ff1fde4ada6beb14d4cc5221162a1be0b6"
+hash = "6b306404c910f6910bb704132f724f62bb78594e281755b8d3125fe14bce349b"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "bda25c04a035fbba2f748ae0e500ef1374107c1fa6abc3b29eb4c5ffe3c41815"
+hash = "ede01e16828f776201d74bc671c34da6d90a345de094c2daca01dcb19df98a75"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -266,12 +266,12 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "2dd2e5e96ea93275a950f75b4b52643f27d2cda92a8f6d58d503135794dc7034"
+hash = "2f1828bcbc8069e4cad331c303a3c9cd5047c4af873e18dec27bc2082596ace7"
 metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "eb0c9ee980b39a508eea17f595fd039d76baaba7b63862158059bbb852dabdb8"
+hash = "871ea0f26dbef24374387f4e3e3ff54f8862cb007a9053b861806032c5536379"
 metafile = true
 
 [[files]]
@@ -300,13 +300,23 @@ hash = "0af9397e8cfa3821436477a60db16300f1940be8a744f80fc00385b24c9b564b"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "a8b72bfc454596f28d055e8d01718c8011d4366ea6e4c8c12f3b4b9e282b1a8c"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "25cd52471486edbdd3b1641c90a26c35eda1036cc938d836ed98d776f3ac59ff"
+hash = "a515178c6470b4f44ab93b2a27ad71402b23566fafa27f14a55b8ae5b9301393"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "db7fa981279ffa20041502eb40f037b7cd11772eafe3e159d71035f83203902b"
 metafile = true
 
 [[files]]
@@ -441,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "d86d00146cfdb6cfc94bc6d8b4c8b947cdd51a49c601887b5c18ddc36d208d37"
+hash = "90e2e7f88c95b6cac6fa2b6d37516854e7087d13b8641d37c36adaad7f1ad633"
 metafile = true
 
 [[files]]
@@ -550,6 +560,16 @@ hash = "b268d34f920021e6ca90d4cce6ce6201a42c45043f716ae8c4da8418a5c2013f"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "152b885d6fb219f5303c21f4c4659b8527adecf58d8cedd892f72d53b02fb245"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d19bd4bfdd02911c471613d9a79bc7c55fef1f5971348f73f5c7f0eb4c403760"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c744ce00ef4340e8a318e9aac8b6c5e14ae4805215dbcce2c6e75207592c6209"
 metafile = true
@@ -640,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "c6d459ad30a9dec877519f012a8d8c09fb0319c02810c91a3af7f5b962d16003"
+hash = "2edb8c9b015a05577e4208f68f17cb0fe7b11496970a25cdcc6780cc128fc0ae"
 metafile = true
 
 [[files]]

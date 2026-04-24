@@ -1,13 +1,13 @@
 name = "ServerReplay"
-filename = "ServerReplay-3.4.0+26.1.jar"
+filename = "ServerReplay-3.4.1+26.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qCvSZ8ra/versions/hncw0iGW/ServerReplay-3.4.0%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/qCvSZ8ra/versions/TcTZXGdP/ServerReplay-3.4.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "155e56481eb0436fb2af37259b72a7d60eebdfcd27b8737492132918aef76c6337536fb0952e1ffee141a03b67d87ebf297ca8898b42381441f8c8b18bebb2e6"
+hash = "817fd6d1727ff9015f6ed619a14c11d6add4dc44c51850ef34eed243f3706f57f202c575ce3cf036d8007a783ae1cc36ed0f74f52610d7634aa04be002589b16"
 
 [update]
 [update.modrinth]
 mod-id = "qCvSZ8ra"
-version = "hncw0iGW"
+version = "TcTZXGdP"
