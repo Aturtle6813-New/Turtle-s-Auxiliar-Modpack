@@ -75,6 +75,10 @@ hash = "ee2c7c6b234e4e310e8a4dbbfe3de81a0fe099e99a2c22eb7a2c4622b05327a9"
 metafile = true
 
 [[files]]
+file = "mods/animatica-0.6.1+26.1.jar"
+hash = "aa05af0e37aa7604d8d01c8582e9ddb4ad99b9882eb99ec0e5052b0afb7b5aa6"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
@@ -136,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-org-addition.pw.toml"
-hash = "44e15ff1c23ae6169da46236f62597c5286390246d11004792f7c0ba3cc306d6"
+hash = "681dd4c9f12ecaa71a1b4b0b4cf5f7f6dfee964471a7e94933eb7ec4e5577688"
 metafile = true
 
 [[files]]
@@ -233,6 +237,10 @@ metafile = true
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
+
+[[files]]
+file = "mods/fastquit-3.1.3+mc26.1.jar"
+hash = "9d434cf39400acbcba7d71355032ec55102b38ea69c1f470f674bf40e1226189"
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -645,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c6b253e50d064a0e4f9007086994a4d0d64de068ffedee1f19895a4134e9a328"
+hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
 metafile = true
 
 [[files]]
