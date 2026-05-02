@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "0a76aa28212a5c06bae1ba99d997b4cb82f7c02fada39e5cda0c5516937809bc"
+hash = "52d3f700baa19c229e44191ed02c496d5bb769d3e76e76a6a5abcee65bb75243"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-core-shader-support.pw.toml"
-hash = "8c6d7b35c8a17fb98b0b783bc0313d82ae5ec2b45b9bdda7d3ca40e5cb83b942"
+hash = "1274563672a9261610234ef0298bf1603f2d5f16ad4658fa3f51bd2e292b08ba"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
+hash = "754ee333b953f4fffc8b445bf58eb493adf1a8fcb7517801f47fa6eaead23a87"
 metafile = true
 
 [[files]]
