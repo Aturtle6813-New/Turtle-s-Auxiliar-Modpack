@@ -1,14 +1,14 @@
 {
   "version": 1,
   "overrides": {
-    "nvidium": {
+    "lightconfig": {
       "depends": {
         "minecraft": ""
       }
     },
-    "lightconfig": {
-      "depends": {
-        "minecraft": ""
+    "voxy":{
+      "depends":{
+        "sodium":""
       }
     }
   }
