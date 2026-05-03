@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6b306404c910f6910bb704132f724f62bb78594e281755b8d3125fe14bce349b"
+hash = "05608f9174ebde171474deee51bc28ccf0a29d7594a6c0bdc40f06d2c7e32b50"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"
-hash = "f340e15ec29dd8124ade0fe973c7d884f9c5eab35388bf531c19fc9061916b75"
+hash = "1068258124b65cb12edf086bb4fc8614ea67ef7ce23106acf054f4807f3a6c66"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "2302890a2035522fbc51c211cea8aaff8e8c937fa5fc64168143c4d0782b99f8"
+hash = "7d451a2a4386390ce9f4b493c3806c8d173d7970bca72c82de4b668c6914f25f"
 metafile = true
 
 [[files]]
