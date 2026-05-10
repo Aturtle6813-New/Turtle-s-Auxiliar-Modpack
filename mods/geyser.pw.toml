@@ -1,0 +1,18 @@
+name = "Geyser"
+filename = "Geyser-Fabric-2.10.0-b1138.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/q4Pg0AcC/Geyser-Fabric-2.10.0-b1138.jar"
+hash-format = "sha512"
+hash = "490b134ccafa3b25154b09a787717d6fcebebb97b8e00317aefc3c2257e76c888181793a772d84b4bbb72b6534e17957451383adc71dc68822688f335dfc319b"
+
+[update]
+[update.modrinth]
+mod-id = "wKkoqHrH"
+version = "q4Pg0AcC"
+
+[option]
+optional = true
+description = "Bedrock player support for server"
+default = true
