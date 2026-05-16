@@ -6,7 +6,7 @@ hash = "7cd7ec6d9728daf8140fbfca14caa93a2c312c19c7483a206aba8e28d5105500"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "750a30ece6e9bcabbe36f13fdd5d8ac06f8657e50d16ef2a45e6f2839911e5e7"
+hash = "eda0d5385e673e8c685029a25f68e9953f3b6f2d69d8817639b9a37cb5e3508d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "aec2a394dd4db56e347632b8b8efcfef7d99c67bbd87c2bf567d32c527f15faa"
+hash = "ccf81e059872ba395706eded637192561b0855d7e9f4c90566c2121188830593"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "769680ba366ba03a6ff0787b31b54cf9da3f7294955c5e8edede949f3c47be41"
+hash = "9ebd5ffa0b9740b9b19ba85076976a3850f4e3996fb19efd34e0a15141dbd4a9"
 metafile = true
 
 [[files]]

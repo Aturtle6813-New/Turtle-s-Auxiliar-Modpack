@@ -10,6 +10,16 @@
       "depends":{
         "sodium":""
       }
+    },
+    "nvidium":{
+      "depends":{
+        "sodium":""
+      }
+    },
+    "sodiumcoreshadersupport":{
+      "depends":{
+        "sodium":""
+      }
     }
   }
 }
