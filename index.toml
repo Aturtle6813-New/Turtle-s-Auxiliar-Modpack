@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "70840a6fafda10a17218ed11bfb2574af2d7ac06c3ce8f611e7d41517783be26"
+hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
 metafile = true
 
 [[files]]
@@ -184,13 +184,18 @@ hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "25b9093154d86afb3c62c1e79b001574b6865483f1279f9e64192c70cdac76ea"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ede01e16828f776201d74bc671c34da6d90a345de094c2daca01dcb19df98a75"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "c2f7894f6710a7d6f5579d4272324a7533f83c75c47a2117ac90a7b4b7bfbd19"
+hash = "6abc95d2b12215339b7141d1d8066dc141f96e9c592ce3d087231f58f6612d67"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
+hash = "dae57c5a1bea0fb7b104fff48e4dd5b76c0eb46cb198f65b4a3ca13316c86d20"
 metafile = true
 
 [[files]]
@@ -279,12 +284,17 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "d86f681f188dca6b3ab8b91e0484621b8e049be0165d5f86dc3ca9c7c3db58e0"
+hash = "e474891af7101247e7f7d9991fcc67ebbe96a399617f705e9fa30104482b694c"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "bda188e0091d5b7e669b3ec205dd19ecfe01dd38ca9423815f0d85fefbf6b5ff"
 metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "d1cf40a6690598c856695b8a6608415bce4fc0d88b768af7c1decd79c99c63c4"
+hash = "13a773b28dcd76ef3505d732689fbd7b7724b84748e480ecaefe345dc1ffb754"
 metafile = true
 
 [[files]]
@@ -343,6 +353,11 @@ hash = "f94619f9e5aa689f1dcde4c59841ae50e6b8056abbaf57622c879444b0133faa"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "1c2407637117938bd45e6ae40386082aff9ed8e069a33699a45562715235c90a"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
 metafile = true
@@ -369,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "dc12b3aba319df85cefde7e6fb0e89e59399fa304a2bbfacf812fb240c06380b"
+hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
 metafile = true
 
 [[files]]
@@ -464,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "90e2e7f88c95b6cac6fa2b6d37516854e7087d13b8641d37c36adaad7f1ad633"
+hash = "88cf4034edcc47755fbe5646ce3966ea19ab7d2fb5bc62b35ab971e465dd1652"
 metafile = true
 
 [[files]]
@@ -514,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2f67aab82589795053a900088d14edd10cfca4902a00a1d5b7101d5c2d80568b"
+hash = "61e81490e34e2fad9b8fda7419fd6ef72f3aad942ab210a70142af0bd806f409"
 metafile = true
 
 [[files]]
@@ -683,12 +698,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+hash = "4186d52e3f4eadf4ba35098431dd9d209d3f2637b1c7abb5668894594cc88246"
 metafile = true
 
 [[files]]
