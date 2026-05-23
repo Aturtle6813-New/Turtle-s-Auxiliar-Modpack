@@ -15,11 +15,6 @@
       "depends":{
         "sodium":""
       }
-    },
-    "sodiumcoreshadersupport":{
-      "depends":{
-        "sodium":""
-      }
     }
   }
 }
