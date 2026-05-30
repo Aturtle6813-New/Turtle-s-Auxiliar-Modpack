@@ -6,7 +6,7 @@ hash = "7cd7ec6d9728daf8140fbfca14caa93a2c312c19c7483a206aba8e28d5105500"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "eda0d5385e673e8c685029a25f68e9953f3b6f2d69d8817639b9a37cb5e3508d"
+hash = "0e4dad5fbe878e963f3e00c9d9bcbfaff0c6a9b4c4357da20b10da0271574bfc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "6abc95d2b12215339b7141d1d8066dc141f96e9c592ce3d087231f58f6612d67"
+hash = "047f529b7339b37e9fa57559876f27023b77d4a5dc9c0c2c525e5681f147b423"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
+hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
 metafile = true
 
 [[files]]
@@ -289,12 +289,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e591134cd9da31bd1809c8d06e0e35b9adf3400623c0cc9d932437b5f6d18a67"
+hash = "9807d1c7dcd1f1864362912f1105f2055010b9917ca3e8ff4ccda1a031b166e5"
 metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "13a773b28dcd76ef3505d732689fbd7b7724b84748e480ecaefe345dc1ffb754"
+hash = "603881652a105089f690d6db94e61775b7e47bd1854d1acac82bb424f9c64545"
 metafile = true
 
 [[files]]
@@ -320,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "23dfca974c4a57380921a16b9b091f1c8c53aed7be0a98baf78b5274e57f1451"
+metafile = true
+
+[[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "912387a585316950da1dc7ff5150b14baf48dbf8608405ae70c59356cfde52f5"
 metafile = true
 
 [[files]]
@@ -349,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "f94619f9e5aa689f1dcde4c59841ae50e6b8056abbaf57622c879444b0133faa"
+hash = "ab79e199e16a4fccd7c5e2d904c1fe6f7f658582f845e233c5a46eb58b677656"
 metafile = true
 
 [[files]]
@@ -479,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-replay.pw.toml"
-hash = "88cf4034edcc47755fbe5646ce3966ea19ab7d2fb5bc62b35ab971e465dd1652"
+hash = "774024297bb927149ff30b1eb8734659764462cc1c3cd6493329637d60ebcf0c"
 metafile = true
 
 [[files]]
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2e210dbb2eca274d176c1f5d93d41638f9826153d358e9c428f1341331bc0ea5"
+hash = "a2e9d2e08cb39c159b50ab8a0a2c38896700f7ab66a7682d691dd91628b4b34d"
 metafile = true
 
 [[files]]
@@ -544,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "64c0337aed7a425b5c1a9e31ec78a350bf578c69b47b15b5d1070ebd3bb6860a"
+hash = "586927387ed68620d679a6a885917b261452b769f08308c08b54da333b6d9896"
 metafile = true
 
 [[files]]
@@ -569,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "8559ff0023fd26ce1ab899b44888c0951e7bec5b8a9f57556979d89e52c1d380"
+hash = "ca338befa89999f7edb28c1c457d06d8247d29d9d22adacedf0b1417685cd3aa"
 metafile = true
 
 [[files]]
@@ -584,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "54caa84003d9e1ca4d5282ec48a369cae33c90a1b64878c4c197b53fb1f7d959"
+hash = "11e14128099be494186625437b9c8e50abb9b576b9eea1005c00720e4caea90c"
 metafile = true
 
 [[files]]
@@ -678,12 +683,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "039796b7190abfcdd7ee0f591fa314033e9cc8308bad85e1ca59ce148e68ada5"
+hash = "795db0e66cb319b7ea1dfec44a4986fdfa9f85b5e9e55e081e25c0f6a782685c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xk-redstone-display.pw.toml"
-hash = "27750d59c2954e738be85531daf1f7b079d59de4973447b100d88b4fe2c6d1c5"
+hash = "91a66bc6631599656381bc3061267a37ebc4baffd8493c6cd087fa3d1a03562b"
 metafile = true
 
 [[files]]
