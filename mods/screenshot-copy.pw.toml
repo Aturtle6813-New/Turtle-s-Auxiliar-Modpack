@@ -1,0 +1,13 @@
+name = "Screenshot Copy"
+filename = "screenshotcopy-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/czGs3M0e/versions/PhUS94gP/screenshotcopy-1.0.0.jar"
+hash-format = "sha512"
+hash = "40498ef7558f7b07e8690232f632cc73fed84e4131d0510947f42c0085c010ad9d0e1c1db2139d69b82a646cd8bda3be849e4ec9adc9fc6c425442797b657c8a"
+
+[update]
+[update.modrinth]
+mod-id = "czGs3M0e"
+version = "PhUS94gP"
