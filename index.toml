@@ -75,8 +75,9 @@ hash = "ee2c7c6b234e4e310e8a4dbbfe3de81a0fe099e99a2c22eb7a2c4622b05327a9"
 metafile = true
 
 [[files]]
-file = "mods/animatica-0.6.1+26.1.jar"
-hash = "aa05af0e37aa7604d8d01c8582e9ddb4ad99b9882eb99ec0e5052b0afb7b5aa6"
+file = "mods/animaticarefabricated.pw.toml"
+hash = "f41ad1ae9062bffcc37a34c5f637c0bf6269c1cc92b3477fe05488fb80b5d2e4"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
