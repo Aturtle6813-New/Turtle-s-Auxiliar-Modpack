@@ -130,8 +130,8 @@ hash = "82f8e930d470d72330d18b6609e233f5c61a37866cec7c93f17d9bc6006e7565"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "5979da4f06033b5fd04d935c33e6bf3b6124dfcd23a413763fff9e37c7103e77"
+file = "mods/cape-provider.pw.toml"
+hash = "b4cfd65678e2d07489b41aefc2e126baad29deb4b7e093cbb2116b3c45caa60d"
 metafile = true
 
 [[files]]
@@ -177,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "448f56f00955f708d4d15ce3a9d94753516646bb2314fcad8c95e80b826eea2c"
 metafile = true
 
 [[files]]
@@ -255,6 +260,11 @@ hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "088bbf96fae96afc1e7fdca9b6f8dca98b3ae190a84be749de210454696d7835"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "1c7648037c28bc381ed920a3882417b315b0aada29e07bf053ba180a438ea3ed"
 metafile = true
@@ -317,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "0663ac7b22cca0c9f965bd2e291fa01bc7b2b75deac7efed6fc7fd12a491a636"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "4dad077c4f11e760a779afcfc6d70faaee814978367a27e016d5620279241902"
 metafile = true
 
 [[files]]
@@ -402,11 +417,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "1521e14b09f495910837d440057d1b29e96fba81fdb2148b6ac60d9474169872"
-metafile = true
-
-[[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
