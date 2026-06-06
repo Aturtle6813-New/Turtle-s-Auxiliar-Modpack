@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "673968430a4f3c168709354aa586dfb138bbdc0dc80b0690fad8e3f63e4b5c36"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "750a30ece6e9bcabbe36f13fdd5d8ac06f8657e50d16ef2a45e6f2839911e5e7"
 
@@ -126,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "82f8e930d470d72330d18b6609e233f5c61a37866cec7c93f17d9bc6006e7565"
+hash = "d8191c7ff64782b226c8689c168961f303b17638dded11522f25f0509db01c15"
 metafile = true
 
 [[files]]
@@ -161,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "74e38514f5959a8f0f2342b0622ce8f5a2143168957579bd4fa2da1d1d8655dc"
+hash = "2d7402221756c1b6139f3218a9f99a86aa04bb9c8e50d5fc259cc2900aa14065"
 metafile = true
 
 [[files]]
@@ -171,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "4b3ef5cff013eb8c207c333bbf2c61877d7f92d7789317c596bc85f99b6984d2"
+hash = "6a020ab51622db6c7d9b91da3ceba4f46e13e4c4075c0f36cca5c7eddb041108"
 metafile = true
 
 [[files]]
@@ -196,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ede01e16828f776201d74bc671c34da6d90a345de094c2daca01dcb19df98a75"
+hash = "b13fbed45cf8bd3bd7bdcfdd75ffcf1258a4aeb02e606c5e23f73c05fba5bd3d"
 metafile = true
 
 [[files]]
@@ -206,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "047f529b7339b37e9fa57559876f27023b77d4a5dc9c0c2c525e5681f147b423"
+hash = "9412b6025c856fcce3d74947f3b59e58670e0ecda08d7e05d9235247886733c7"
 metafile = true
 
 [[files]]
@@ -236,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "814a0f319a563fc9ac44366ce9dd38727d288043dadc2de82c09fb2ecb07c56c"
+hash = "f22cc7db2f752100c79cff7476e267eb4e4f737a31798d30d6093f5d998198f4"
 metafile = true
 
 [[files]]
@@ -261,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -316,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "7d4b8333df8c30f4e3e1b0b4b51e2175bbd1e36f00514557abaedb6dee04b991"
+hash = "42896b74c460d8b70b156984fba5fe3407a683a37878e5a3e6dc775ea8fb87a6"
 metafile = true
 
 [[files]]
@@ -341,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "4dad077c4f11e760a779afcfc6d70faaee814978367a27e016d5620279241902"
+hash = "8fa5669929af129935a06b50ee323cd4fb25a2328356cc3190ce189119a25ab4"
 metafile = true
 
 [[files]]
@@ -451,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "94768827963a3c80fffa06fbbf9d1c2cbae436c1ef83074d01221f1259f7cf55"
+hash = "f636645376123a093996e41df7fecd3a1755e6e53dafdc942031c014d151c72a"
 metafile = true
 
 [[files]]
@@ -481,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "8079d3cd5afd9c93fef3946d0373554204485667bb0c51a985891efc16861e0d"
+hash = "26474771b84f1145e7de5fc329999fff3da3b2bb6ec7e086528c2cc968a0c945"
 metafile = true
 
 [[files]]
@@ -536,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/serveraddressspacefix.pw.toml"
-hash = "990eb79aa21dbd1a45cf0c85f5385d7cb280f970b21b0cd8c80b7ef05e152241"
+hash = "28a34ff4efb20243b391d4e198d2bf0dfc202cc5524d909e57df153dd0946c6b"
 metafile = true
 
 [[files]]
@@ -656,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "25fd513915015dc25401178a859aa637ff490f9bfc1f4ba20e332ac8183aa168"
+hash = "7622435fd5a682c52c81382f5013cbde0fb11095b90a2267b58dfdd79665cf0d"
 metafile = true
 
 [[files]]
@@ -670,7 +674,7 @@ hash = "6482769caacfe7f58354750928fe1304245f22a3a6954a2ed7479118db74911e"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3819eca29d5a6fb7f5bf25ae15b4fb454ac3c2476f5271ad9507c9cec533773d"
+hash = "b7c0b200e89a3681db1fa4bce319536d639305b829ce8be966963704e676b739"
 metafile = true
 
 [[files]]
@@ -725,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "795db0e66cb319b7ea1dfec44a4986fdfa9f85b5e9e55e081e25c0f6a782685c"
+hash = "f93fa6136e9aea38a023c7c48ecedf6d2baa7d8a89a8f1f952fea34876881c78"
 metafile = true
 
 [[files]]
