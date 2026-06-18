@@ -1,13 +1,13 @@
 name = "ServerAddressSpaceFix"
-filename = "ServerAddressSpaceFix-0.2.3 mc26.x.jar"
+filename = "ServerAddressSpaceFix-0.2.5 mc26.x.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NJGSUuLp/versions/fUR1XMoY/ServerAddressSpaceFix-0.2.3%20mc26.x.jar"
+url = "https://cdn.modrinth.com/data/NJGSUuLp/versions/nvzPrP4Z/ServerAddressSpaceFix-0.2.5%20mc26.x.jar"
 hash-format = "sha512"
-hash = "9ec82399c9711e127865d2c0c334bdf0a9d0f51c7d9d622593dfac6e436e80bf262e308743a324ec9ea9a46ed1bf8f720c13a7d986a4b50abc69e293ff9610ca"
+hash = "69a4d3bbb4d4a3fc60e3de1d19730dd19602e0172ffa03127c6aa05b2abadf650ec39ff0565d9e3db96d92751880d2bb68ee34ae16d6382f3d9b9b262d7b9652"
 
 [update]
 [update.modrinth]
 mod-id = "NJGSUuLp"
-version = "fUR1XMoY"
+version = "nvzPrP4Z"
