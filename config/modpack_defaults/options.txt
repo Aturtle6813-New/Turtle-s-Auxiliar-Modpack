@@ -1,4 +1,4 @@
-version:4082
+version:4903
 resourcePacks:["vanilla","fabric","flat_shulker_icons","file/Translate Mods 1.6.zip","file/Chat Reporting Helper.zip","file/advancementinforeloaded汉化.zip","file/SodiumTranslations.zip","file/masa-mods-chinese.zip"]
 incompatibleResourcePacks:["appleskin","authme","badoptimizations","controlling","jade","jecharacters","mcwifipnp","resourcify","searchables","sodiumcoreshadersupport","tweakeroo","yet_another_config_lib_v3","file/Translate Mods 1.6.zip","file/advancementinforeloaded汉化.zip","file/masa-mods-chinese.zip"]
 fov:0.5
