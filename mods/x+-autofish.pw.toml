@@ -1,13 +1,13 @@
 name = "XPlus Autofish (Fabric / Forge / NeoForge)"
-filename = "xplus-autofish-1.5.0-fabric-mc26.1.jar"
+filename = "xplus-autofish-1.5.1-fabric-mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2H1rLgy4/versions/VnXmoAd8/xplus-autofish-1.5.0-fabric-mc26.1.jar"
+url = "https://cdn.modrinth.com/data/2H1rLgy4/versions/9oembctj/xplus-autofish-1.5.1-fabric-mc26.2.jar"
 hash-format = "sha512"
-hash = "f4f02ca2ae04d83969e528a43404ac275cabf7356a676ab6355fc7b439eee39c8cd3336e81afeb32bd20b30129e3395b10efbd4668400698d61192df05f14622"
+hash = "81839ccd9b3ca7b7051eb3aefd0b8106232be2367865a0236d0ea9b69fb6b980c8e4fd7bd6f99e5168106a573ae3c7e2648ce32625898b568d7090ebf9b18b06"
 
 [update]
 [update.modrinth]
 mod-id = "2H1rLgy4"
-version = "VnXmoAd8"
+version = "9oembctj"
