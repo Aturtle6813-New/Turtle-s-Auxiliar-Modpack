@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "841fb563ceadc88a73c55500b19bbede3568dea3005c901db638c2b9d898ed49"
+hash = "a7b9a62f39ae4614e31734b47156d65c28a001792d288e7d140b8ebd32f59fd1"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "eb5f7c2470234585d6f4a5c6579d526e844ea1ba35e9ee2567594f067702f354"
+hash = "40f3f1f6a49127c8ebc6f0d568f6720af478c6730a8ce106b223cce1b1da2dc7"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "85777703d4901e4483d45b614a45615737bee231d786f1166ea37466abd6bd33"
+hash = "91cbd0f5accaeb5ba27077286c6f4d149d1ac348626623b47ca5392e39625972"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "38cedae6b5e9509d7cf1bc07b00a1fa6fe7cc6a7e936f585259db322fbb4a644"
+hash = "89892a835593b32f5fab5f930a2c7fadeabbc2e7881218f0f2b1e575a09fecc4"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+hash = "1c998bd258e1eeebdf39f6a9d7397906f3f5c53c1a99a9677a8bd2c7ba0211fe"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "83ce6d277b02b2d55a9ad0d5a5900ef43562f4926e88a81b1ad904aeb63d5074"
+hash = "807a319ce0e802960796fc6a609e7d96a8566f161ddc60424ebc1d4fae2da80a"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "ab79e199e16a4fccd7c5e2d904c1fe6f7f658582f845e233c5a46eb58b677656"
+hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
 
 [[files]]
@@ -435,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "f440d3ab63d4ada9a261252d228b41c9f538065b7a454d03544329c418e8d12c"
+hash = "eeeb9d420683da8074a39154a32167a6dda7b79e9a382ae83568af4d0e54ae88"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5d5837e22eb02061c7f8f087b4d839a269d2e39a5149e4079bd0cf594724abfd"
+hash = "64eee34685461c44e657b33d9a982c1da9b3e21f2fe139907fc8a6d68359be14"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "b06a45aed1a138c178d3aca3ec47f5af2d56d5c7ad03403b3530826bd95c49d3"
+hash = "75ccf7dd6ed104fa6408610e432bee3eaed9c42bf679c986e92d71a27fec0138"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "694549a06bdc8b37262958fbcb26eec57df96c2a624cd05378f025289639efce"
+hash = "c27844281987a3bea0dc6db5e4aef05802979bcd33f349317c81e613d46b34e5"
 metafile = true
 
 [[files]]

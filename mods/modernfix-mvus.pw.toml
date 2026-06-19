@@ -1,13 +1,13 @@
 name = "ModernFix-mVUS"
-filename = "modernfix-5.27.17-build.2.jar"
+filename = "modernfix-5.27.17-build.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/g4Wg6PGx/modernfix-5.27.17-build.2.jar"
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/425nC7sV/modernfix-5.27.17-build.3.jar"
 hash-format = "sha512"
-hash = "f5a449b199796cab306fd392c49324cd9eeea9474f1d4e2f6c2a9fd22cfecb5117829aaec8a53298b04e8e446c649f0993a79c87629725a84ce67fa65360b5dc"
+hash = "407f848a124c427b523731c623e689cfc933220fa171644717622cabe67d137de3bc1a17b922f1a3ad2497ea8fedec7d811741f5c50b25dccf2ab8eebac1a7ae"
 
 [update]
 [update.modrinth]
 mod-id = "TjSm1wrD"
-version = "g4Wg6PGx"
+version = "425nC7sV"
