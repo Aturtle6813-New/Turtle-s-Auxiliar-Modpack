@@ -295,11 +295,6 @@ hash = "1c998bd258e1eeebdf39f6a9d7397906f3f5c53c1a99a9677a8bd2c7ba0211fe"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "8b4bb7969f100288a1bf2d0886dff2b62da878042a757b7caccf209e27fe36b9"
-metafile = true
-
-[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "b461061252d6d8e2c32a342c41dfcd3379e8df6ef9c1655ad20cf70c6f777abf"
 metafile = true
@@ -620,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5292997445d84d1b53385b3d4ba9fc1eacfb73abba4ed7b42728244d9e69be05"
+hash = "66cdb9a44a6bbdd4035aab04c34e827278339443c17e608c883d70e6570c4aaa"
 metafile = true
 
 [[files]]
