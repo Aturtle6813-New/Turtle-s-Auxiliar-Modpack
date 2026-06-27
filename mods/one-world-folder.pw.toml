@@ -1,0 +1,13 @@
+name = "One World Folder"
+filename = "oneworldfolder-1.1.3-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JL35Xbzz/versions/YTF5TYVL/oneworldfolder-1.1.3-26.2.jar"
+hash-format = "sha512"
+hash = "cf53eb28faa77c64e6d59791bb6b84c22fdb9fd5687c5c8b8624ee49a22ff3f225de65ad2daa76b4f970b769aa073f7e0fdaabd988e8595441ee06b030ddb658"
+
+[update]
+[update.modrinth]
+mod-id = "JL35Xbzz"
+version = "YTF5TYVL"
