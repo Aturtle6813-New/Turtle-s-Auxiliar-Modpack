@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "4b91dc58697b1aed44f91c9e5b90980ff96092f5881eff34a21a09fb1c4f1277"
+hash = "98f51845428b241d43adfa7da330b1a4b8a842ad708ca4382a3ce3ffc3d6fb23"
 metafile = true
 
 [[files]]
@@ -115,6 +115,11 @@ hash = "28c7599c8d0a72227dfeef91782e2e8faf2ad6339b30e9b5c846b28173cd32ff"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "ed76aad14a1e48dafee32104fde0b1cbe33a2c0d51d2bc118ee46449289dddac"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "395337b8cb69960ded25d7d0838ee1a26751e08b3c75be95adb0d231a93411c9"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
 hash = "b88d310171574b0df8e0a26b1704edf29cdc0b9d08b5dfe5aa8577459a1d6ffd"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "1f48ff3f6bd69384d11f3123876d69c39274140e8847a28b11cca842ffbd49eb"
 metafile = true
 
 [[files]]
@@ -306,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3a07ba5aa850ba9b8ca9bf8b6a06dbb42eb6147fa4e0d6db277f04aa65ff2284"
+hash = "70e5a9200c662232c051c888a689a67973db3ae7407c8da29c4e09ef97ad193c"
 metafile = true
 
 [[files]]
@@ -322,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "807a319ce0e802960796fc6a609e7d96a8566f161ddc60424ebc1d4fae2da80a"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "3d1ca216410140c8c6629d43ce4d005f447a7a0f197f59a26a8431249116ed1e"
 metafile = true
 
 [[files]]
@@ -375,6 +390,11 @@ hash = "7acfb9e9d7b052728f518574f1e79d20a2ec3296e147fbd3794b033fef381947"
 metafile = true
 
 [[files]]
+file = "mods/mods-command.pw.toml"
+hash = "e29cd4c01d76bb549e5e7c267ff16cb1a3bc68d8731b3d3c3086a542cebb96d4"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "6d505173f3abc478d4d961dbb6ba6e2c9d94ef2481c9d41bf0ce6279e5f132fb"
 metafile = true
@@ -392,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "efb6c0c3dd817f1b7df24c8bd0b9e2750cef6826d2fe4086ad8dee3ce926f843"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
 metafile = true
 
 [[files]]
@@ -426,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "c11cbc466cdb4d1e989b483bd6d180cee88d67af893dce160ee6a72987be6d0a"
+hash = "3392508587c2cc0bf99ba82fcb02936d0d8d636537237d6aa12ae30cb03c4522"
 metafile = true
 
 [[files]]
@@ -525,6 +550,11 @@ hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "6b909d50b935050ad6bada41b727f5c6e7e461edff34e161b1badefe857c044f"
+metafile = true
+
+[[files]]
 file = "mods/x+-autofish.pw.toml"
 hash = "81f728de16a0b830bfb2a403c34ec098b930db915098c622ba8f12baa87cd127"
 metafile = true
@@ -610,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "66cdb9a44a6bbdd4035aab04c34e827278339443c17e608c883d70e6570c4aaa"
+hash = "f7f951d79622a7100947fdab4c3f61d4ee0cb0b412beb5af3dfb5ab188388600"
 metafile = true
 
 [[files]]
