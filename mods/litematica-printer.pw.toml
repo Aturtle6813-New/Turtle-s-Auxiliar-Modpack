@@ -1,0 +1,15 @@
+name = "litematica-printer"
+filename = "litematica-printer-versionpack-1.3-beta.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/BiliXWhite/litematica-printer/releases/download/1.3-beta.3/litematica-printer-versionpack-1.3-beta.3.jar"
+hash-format = "sha256"
+hash = "fd6224ab3529bde951b7ec16e3e054ca73b5961fd1b34473355e2ec61166fdba"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "BiliXWhite/litematica-printer"
+tag = "1.3-beta.3"
