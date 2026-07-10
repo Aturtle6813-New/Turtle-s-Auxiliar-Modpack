@@ -1,0 +1,13 @@
+name = "MagicLib"
+filename = "MagicLib-mc26.2-fabric-0.8.852-stable.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/L8wasqSi/MagicLib-mc26.2-fabric-0.8.852-stable.jar"
+hash-format = "sha512"
+hash = "f40fa860fe71b1cd446ef10b6e77422abd5cae662774a9b9343eaed0c74325f9a96dc6d497698862fdedaa8717d4582db4b69d6c2d3a77464854d331bad5f327"
+
+[update]
+[update.modrinth]
+mod-id = "mv1zH6ln"
+version = "L8wasqSi"
