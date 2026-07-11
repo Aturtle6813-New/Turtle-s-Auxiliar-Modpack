@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "951f09d189fbcf17b4cde0524e9cd1e37da9a3c666fa47606ca61b55ec1c287e"
+hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "66df87e5dcc43ce1dcf730782f4072fc44c0cd397a577c9dbc3620d4514eda4a"
+hash = "01ad76c709708ee04c74ba9a7d0a88efeeadac4f29348b4d3e964fda15c81ae2"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "057323aeacf1e4428f8742677fc5a01d1ebccbda7a5227260a97859a4e12c521"
+hash = "ceb68ee316ecdab04c84d45de5f2ffc2fcdeb9f3770cad92aabd92c2ec50f473"
 metafile = true
 
 [[files]]
@@ -290,6 +290,11 @@ hash = "e64406db7168cb9a471c7456a847a3fad047b3794066cdeb984bbb0e6a25953c"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "749ee70a60e2823702969b7e0c749bd01b51d0b1a5ec8d2a842fb0f626c7932d"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "61c67f0eded3c4de97c19e8d9f0926b0797805a1a173fe014429e353cb329dd4"
 metafile = true
@@ -321,12 +326,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "13ae8e626b7652b83d70f1f4b8a28b39001fbe2a8e8ef5e6c31ad0f49cec8761"
+hash = "697071e73e1673ae3a8be1de3026cc7338e91d17420d417cbbcb8ced3a609d7f"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "1c8c09ba9e6296930f5ea1faecb5164ca556237ccbeb19e23a172bd60f0419c2"
+hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
 metafile = true
 
 [[files]]
@@ -501,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "886bdb0af441c5adf78a99a648c9cc528522c676352307220681858e0d3275cc"
+hash = "23bd2f19c11a1b0b2870dafd6d5321af3549b22e84149bfd6ff3ff49af388788"
 metafile = true
 
 [[files]]
@@ -562,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/voxy-server-side.pw.toml"
 hash = "c00fa77ac63ec7bb913f8267c19de92f9d30cc54d5cc3648ec112f917356f80f"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "77bfb5b2b62a3a152688b3096b43c8e6a51346634cc50320ccd5c135b5159774"
 metafile = true
 
 [[files]]
@@ -650,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f7f951d79622a7100947fdab4c3f61d4ee0cb0b412beb5af3dfb5ab188388600"
+hash = "e45706345257a7c1d70fd0bfb08ebe427c793fc603f98a312dad7774638e1d61"
 metafile = true
 
 [[files]]
