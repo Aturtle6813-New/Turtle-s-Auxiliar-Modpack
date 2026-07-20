@@ -1,13 +1,13 @@
 name = "adventure-platform-mod"
-filename = "adventure-platform-fabric-7.1.0.jar"
+filename = "adventure-platform-fabric-7.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O5VsIpQY/versions/teN1MXsR/adventure-platform-fabric-7.1.0.jar"
+url = "https://cdn.modrinth.com/data/O5VsIpQY/versions/IACaEVKO/adventure-platform-fabric-7.1.1.jar"
 hash-format = "sha512"
-hash = "d62650958cefb5e31b6c09e908687b957cb1be20b624936dfe7da0611c224d3e51402c177c4c4de7b552c98a8fdbbaa430a88b442b465b6aed4588905da70245"
+hash = "959b25d5daab8e824194aee5efa570ee67d9fb7c8b001dcfca0093a2c77cb3a5f79f0e91e6f151c63cccb4e6072fde5b5e6566c2dd72a7e6a80dab37112b04af"
 
 [update]
 [update.modrinth]
 mod-id = "O5VsIpQY"
-version = "teN1MXsR"
+version = "IACaEVKO"
