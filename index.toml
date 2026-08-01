@@ -279,8 +279,9 @@ hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
 metafile = true
 
 [[files]]
-file = "mods/fastquit-3.1.4+mc26.2.jar"
-hash = "fa6f482d64a62d558c92e6366eaabcc60ddbc4a7163bdf67dc47045e6a717c00"
+file = "mods/fastquit.pw.toml"
+hash = "57dcec4d226345a506ebcc889093e37ac6da9b0c94394275d962fb7df1f7f649"
+metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -569,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4651334ca774c5ab2429135327e8fee5f9264f46828397691c3b9af94da9af87"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
@@ -615,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
-metafile = true
-
-[[files]]
-file = "mods/voxy-server-side.pw.toml"
-hash = "c00fa77ac63ec7bb913f8267c19de92f9d30cc54d5cc3648ec112f917356f80f"
 metafile = true
 
 [[files]]
