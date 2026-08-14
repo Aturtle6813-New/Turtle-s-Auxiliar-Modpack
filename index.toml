@@ -5,6 +5,10 @@ file = "config/crash_assistant/config.toml"
 hash = "673968430a4f3c168709354aa586dfb138bbdc0dc80b0690fad8e3f63e4b5c36"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "0086d51c718cd1c9f62a51bb2745b65889cffce3ce5a2ef9ca9223a3c7401c15"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "17ce62ca4f78918983a46a2b596ba456fb21a617308686cbb9db3f37962e67ad"
 
@@ -345,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9963b50fd02f2ab453194229781e2ae953e4df38a37afbcfe58a838945ce99b3"
+hash = "9b76d5dad223fd0818ef98aedd599c494eb38c7b8fa2fec545b22802c717d889"
 metafile = true
 
 [[files]]
@@ -355,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0bdbe9d1d051e00f9fc8c26850ec82e6a20185ee65ae2625e0c327e9fa805f91"
+hash = "8bc4165196a19e5f88433900ce788d6a1e9928625f3096ddb3f8cec088508f51"
 metafile = true
 
 [[files]]
@@ -667,10 +671,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "af6d841b3b627c1f53fb09c97f2b4d35c9056d94ab0fc05a274cf8086527e473"
 metafile = true
-
-[[files]]
-file = "resourcepacks/advancementinforeloaded汉化.zip"
-hash = "6482769caacfe7f58354750928fe1304245f22a3a6954a2ed7479118db74911e"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
