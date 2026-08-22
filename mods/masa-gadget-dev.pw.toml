@@ -1,13 +1,13 @@
 name = "Masa Gadget Dev"
-filename = "MasaGadget-mc26.2-fabric-4.0.402-development.jar"
+filename = "MasaGadget-mc26.2-fabric-4.0.403-development.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qGUUhBWE/versions/87dEDBu9/MasaGadget-mc26.2-fabric-4.0.402-development.jar"
+url = "https://cdn.modrinth.com/data/qGUUhBWE/versions/yEyiE6Iv/MasaGadget-mc26.2-fabric-4.0.403-development.jar"
 hash-format = "sha512"
-hash = "ee702b7187851d86c09f96be4164939d08d3f20341b5a6b0d40473854c6eac384d95154a676e1bca7caf3d385e86d1df00a9bc05472fbe511b651c86f2e84d28"
+hash = "eea767a5825766c226a0fabc09d2341e87f00122c9e18f78b328b4154c84de78d75bf21afdf80c9636c29ce94ce250b20312b20b33728be3e96011c01130449b"
 
 [update]
 [update.modrinth]
 mod-id = "qGUUhBWE"
-version = "87dEDBu9"
+version = "yEyiE6Iv"
