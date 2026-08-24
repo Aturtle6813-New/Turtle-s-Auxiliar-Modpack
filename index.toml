@@ -119,6 +119,11 @@ hash = "28c7599c8d0a72227dfeef91782e2e8faf2ad6339b30e9b5c846b28173cd32ff"
 metafile = true
 
 [[files]]
+file = "mods/bkups.pw.toml"
+hash = "0295b54ef6ee7891b68351963bc55484ae1680458f771fbbd60819872ff569e4"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "ed76aad14a1e48dafee32104fde0b1cbe33a2c0d51d2bc118ee46449289dddac"
 metafile = true
@@ -176,6 +181,16 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "e9654c5d253e4fdc00ac2f0ffa32a38ed9c93e9d052e8095deaf054e1efb8bd1"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker-port.pw.toml"
+hash = "f3fe62ebe12f9f2273d956a17f8bfeb06dfc2e12a352ecd82a2d9585ba11ec8a"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "37e11b6189a9e299503493d99e790378e3263a253da8e52cb22f42676efbd769"
 metafile = true
 
 [[files]]
@@ -393,6 +408,11 @@ hash = "ee2c63e3a3f551d9316d48fffd5a886a6251393b5a9f9ec41198829a18400969"
 metafile = true
 
 [[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "02f7e7f511f7654b4b3d3c1156ecb1fbf633e382e9bea8d12979c9b7d42cde19"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
@@ -468,6 +488,11 @@ hash = "a7038f7260b128480f8a62b12e5583240c2a94bd782c1b60e2356ec7a3843e4c"
 metafile = true
 
 [[files]]
+file = "mods/next-fabric-bedrock-miner.pw.toml"
+hash = "e06dd3579b40f679b0b2f61914a4e2fcdc8f7130561ed5f5805d26d517d0731a"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
@@ -495,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "88bfc1efb7e5ab07f05eff2604001d8622f369051180a53592aeb1aeae0bd64b"
+metafile = true
+
+[[files]]
+file = "mods/pistorder.pw.toml"
+hash = "bbf1b89916334fd4a2cfc82fa43286b93b2192c8f162c76977cce9d0a6531652"
 metafile = true
 
 [[files]]
@@ -633,6 +663,11 @@ hash = "4f8c4b34add1187c719c4640e526da25b3e77b933c49dcf8586bf1fe4a311ba4"
 metafile = true
 
 [[files]]
+file = "mods/vitrail-shaders.pw.toml"
+hash = "6d6367521f30f4218a88f08fbd039c16b4a69f5cefb0085479ca8eadf2756376"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
@@ -733,6 +768,11 @@ hash = "d222a7bd98c8072a4236087f37ed35e0918ae70428769c0681db465db7bb055c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/voxy-unofficial-translation.pw.toml"
+hash = "1d2d67db000e1eff25b20ce7004a6666a6de797b7242eac1ae0197b575e7e6c6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/xk-redstone-display.pw.toml"
 hash = "91a66bc6631599656381bc3061267a37ebc4baffd8493c6cd087fa3d1a03562b"
 metafile = true
@@ -740,6 +780,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/ziyun-redstone-cover.pw.toml"
 hash = "06c9f8089ebe431b32033c11bbcdcd5ffb19558531832e6ef2d17aeb8907d965"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
 
 [[files]]
@@ -760,4 +805,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
 metafile = true

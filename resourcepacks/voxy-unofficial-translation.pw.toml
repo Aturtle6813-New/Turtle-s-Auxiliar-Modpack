@@ -1,0 +1,13 @@
+name = "unofficial translation of voxy"
+filename = "voxytranslate1.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xCJJc5Mh/versions/GPJQQP3w/voxytranslate1.7.zip"
+hash-format = "sha512"
+hash = "55e6ad3153378ac68925100add0b4e5088865b7b12750057b5e351ec2ac30f6392e577cd8b1b571dd168ca78cff2758debfbb7adf9972ab75617c10565f9c0f7"
+
+[update]
+[update.modrinth]
+mod-id = "xCJJc5Mh"
+version = "GPJQQP3w"

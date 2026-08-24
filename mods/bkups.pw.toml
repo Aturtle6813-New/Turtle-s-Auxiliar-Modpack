@@ -1,0 +1,13 @@
+name = "Bkups"
+filename = "bkupsV3-fabric-mod-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUNT1H6o/versions/aHG5FCwi/bkupsV3-fabric-mod-26.2.jar"
+hash-format = "sha512"
+hash = "845e279bb1d7dff65b1031cdb7802d5089d7d58f9692970458e62430eca3a4d08aa3a6c8d93c4fbaddfc6ceb33bb3d6c5efa40bd6af755565a1cc0e90a355c5b"
+
+[update]
+[update.modrinth]
+mod-id = "qUNT1H6o"
+version = "aHG5FCwi"

@@ -1,0 +1,15 @@
+name = "Vitrail-Shaders"
+filename = "vitrail-0.7.5-beta+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/avpbynf/Vitrail-Shaders/releases/download/v0.7.5-beta/vitrail-0.7.5-beta%2Bmc26.2.jar"
+hash-format = "sha256"
+hash = "f0de856b421a260efb850db46c872e5254e49d279457b721bff84c8d7567e835"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "avpbynf/Vitrail-Shaders"
+tag = "v0.7.5-beta"
