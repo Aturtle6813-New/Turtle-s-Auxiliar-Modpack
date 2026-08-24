@@ -673,6 +673,11 @@ hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
+file = "mods/voxy-extra.pw.toml"
+hash = "37db3b3a051617bb4a5092f0fd42ac168d285a08fc72c6014308a79938a32721"
+metafile = true
+
+[[files]]
 file = "mods/voxy-replaymod-compat.pw.toml"
 hash = "29b6ee23f33c5d252d80799bda91399b810dda3c0d2a98edde5ffe8c7626f86d"
 metafile = true
