@@ -343,6 +343,11 @@ hash = "34c5cae452fb6a80e6ef40aa0c02a1a033253fe97b4b3db746d9e764f264685c"
 metafile = true
 
 [[files]]
+file = "mods/hmi-continued.pw.toml"
+hash = "26656e83ca3d49a9d43ea293438b76125853a767ae2ae0330f6b7ca543870476"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "d849e336171dec4667c1124129ebff88613649c679b7ae623f6bdd8926e83824"
 metafile = true
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
+hash = "f06c0b9150da9877b99cb265d037c067e509340d9bf347e02cef2043c110e963"
 metafile = true
 
 [[files]]

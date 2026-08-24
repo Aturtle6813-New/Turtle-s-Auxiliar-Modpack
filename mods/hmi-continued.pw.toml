@@ -1,0 +1,15 @@
+name = "HMI-continued"
+filename = "holdmyitems-5.1.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ByteMe6/HMI-continued/releases/download/v5.1.2%2B26.2/holdmyitems-5.1.2%2B26.2.jar"
+hash-format = "sha256"
+hash = "e5e6ed2703502b2cd41c189044315a13e44616954634c154f026d7f3caa227cd"
+
+[update]
+[update.github]
+branch = "68ec06d3b4f4140ee87c483793825c1824cbab55"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ByteMe6/HMI-continued"
+tag = "v5.1.2+26.2"
