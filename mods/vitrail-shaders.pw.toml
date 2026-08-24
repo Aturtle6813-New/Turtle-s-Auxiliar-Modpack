@@ -13,3 +13,8 @@ branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "avpbynf/Vitrail-Shaders"
 tag = "v0.7.5-beta"
+
+[option]
+optional = true
+description = "You need to disable one of them in it and Iris or game will crash"
+default = false

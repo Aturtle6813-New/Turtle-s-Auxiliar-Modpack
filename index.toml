@@ -229,11 +229,6 @@ hash = "26df46292aa3a6195a25d641c22930f7ef6f23cf9c6061354fdb8edffc7c167f"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "ba10e235a3e4baac4862bb74a9b8b2fe7d4f2465620255195fb661a5e9c968d7"
-metafile = true
-
-[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "aec1df84ab0edd3ab36d80a08765ab0ae3754c2bdbb4e9f568e979f01f470234"
 metafile = true
@@ -359,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
+hash = "378c5b3ca561bab249d69abffab0c8efdfe81db17c7458a93cf29c41985ac72d"
 metafile = true
 
 [[files]]
@@ -669,12 +664,17 @@ metafile = true
 
 [[files]]
 file = "mods/vitrail-shaders.pw.toml"
-hash = "076596dc17ab48904fa12e6ed3eec0a2f0384c60407f68f26ede9fe19470d9b2"
+hash = "745a34c7b4fbc473a08ac00a2d8b3c8f78ce7646ded6c91923dc0c811e67bb71"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
+metafile = true
+
+[[files]]
+file = "mods/voxy-replaymod-compat.pw.toml"
+hash = "29b6ee23f33c5d252d80799bda91399b810dda3c0d2a98edde5ffe8c7626f86d"
 metafile = true
 
 [[files]]
