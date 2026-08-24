@@ -1,6 +1,6 @@
 name = "HMI-continued"
 filename = "holdmyitems-5.1.2+26.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/ByteMe6/HMI-continued/releases/download/v5.1.2%2B26.2/holdmyitems-5.1.2%2B26.2.jar"
@@ -13,3 +13,8 @@ branch = "68ec06d3b4f4140ee87c483793825c1824cbab55"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ByteMe6/HMI-continued"
 tag = "v5.1.2+26.2"
+
+[option]
+optional = true
+description = "This changes the hand animations in first person, makes game not vanilla"
+default = false

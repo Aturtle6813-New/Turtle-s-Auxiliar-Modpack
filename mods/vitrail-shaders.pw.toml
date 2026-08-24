@@ -1,6 +1,6 @@
 name = "Vitrail-Shaders"
 filename = "vitrail-0.7.5-beta+mc26.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/avpbynf/Vitrail-Shaders/releases/download/v0.7.5-beta/vitrail-0.7.5-beta%2Bmc26.2.jar"

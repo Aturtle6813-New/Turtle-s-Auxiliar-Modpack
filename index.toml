@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/hmi-continued.pw.toml"
-hash = "26656e83ca3d49a9d43ea293438b76125853a767ae2ae0330f6b7ca543870476"
+hash = "9f4b7c99aa87d2dbee86dcae20fb0f1146b087c4183ddf88190ce054f94c0237"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/vitrail-shaders.pw.toml"
-hash = "6d6367521f30f4218a88f08fbd039c16b4a69f5cefb0085479ca8eadf2756376"
+hash = "076596dc17ab48904fa12e6ed3eec0a2f0384c60407f68f26ede9fe19470d9b2"
 metafile = true
 
 [[files]]
