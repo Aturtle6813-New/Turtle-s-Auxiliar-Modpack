@@ -1,20 +1,19 @@
 name = "Vitrail-Shaders"
-filename = "vitrail-0.7.5-beta+mc26.2.jar"
+filename = "vitrail-0.9.0-beta+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://github.com/avpbynf/Vitrail-Shaders/releases/download/v0.7.5-beta/vitrail-0.7.5-beta%2Bmc26.2.jar"
+url = "https://github.com/avpbynf/Vitrail-Shaders/releases/download/v0.9.0-beta/vitrail-0.9.0-beta%2Bmc26.2.jar"
 hash-format = "sha256"
-hash = "f0de856b421a260efb850db46c872e5254e49d279457b721bff84c8d7567e835"
+hash = "48d297b2f7c883fde8f3d81ffddac1edfa50ef40e0c6b993b61073551288b0a6"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "avpbynf/Vitrail-Shaders"
-tag = "v0.7.5-beta"
+tag = "v0.9.0-beta"
 
 [option]
 optional = true
 description = "You need to disable one of them in it and Iris or game will crash"
-default = false

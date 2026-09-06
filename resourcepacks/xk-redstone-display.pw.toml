@@ -1,13 +1,13 @@
 name = "XK Redstone Display"
-filename = "XK redstone display 26.1.5.zip"
+filename = "XK redstone display 26.3.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4ueVo9s5/versions/PczRKsKy/XK%20redstone%20display%2026.1.5.zip"
+url = "https://cdn.modrinth.com/data/4ueVo9s5/versions/gNtjiVyH/XK%20redstone%20display%2026.3.0.zip"
 hash-format = "sha512"
-hash = "e5e2019e4c685fa0b933c7f255ba6d10501df62bfdfb8bc26b8c05b77fe9614b8e82729850ece59b7015b531ab606cd048c2e3869bde44163511678a0265da1b"
+hash = "ecd84201ad6d72076db05c59b6d2b20f62e149a05a17d36098b6043bee32126cd23a950a4acbc17678dcb1f2b910bf532c34dfd78b5771a5f52a153b979f5406"
 
 [update]
 [update.modrinth]
 mod-id = "4ueVo9s5"
-version = "PczRKsKy"
+version = "gNtjiVyH"

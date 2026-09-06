@@ -1,0 +1,8 @@
+name = "oh-my-minecraft-client"
+filename = "OhMyMinecraftClient-mc26.2-fabric-0.7.0.355-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AyakaCraft/oh-my-minecraft-client/releases/download/calboot%2Fdev.17/OhMyMinecraftClient-mc26.2-fabric-0.7.0.355-beta.jar"
+hash-format = "sha256"
+hash = "a2fbf42961b9f29a0007bb9ec808b3cfe1a2836095ff1ccae91478564bb5b6da"
