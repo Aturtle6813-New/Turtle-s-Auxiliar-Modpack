@@ -1,6 +1,6 @@
 name = "oh-my-minecraft-client"
 filename = "OhMyMinecraftClient-mc26.2-fabric-0.7.0.355-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/AyakaCraft/oh-my-minecraft-client/releases/download/calboot%2Fdev.17/OhMyMinecraftClient-mc26.2-fabric-0.7.0.355-beta.jar"

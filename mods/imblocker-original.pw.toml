@@ -1,13 +1,13 @@
 name = "IMBlocker"
-filename = "IMBlocker-7.2.1-fabric-26.1+.jar"
+filename = "IMBlocker-7.3.1-fabric-26.1+.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/BO7fgnmM/IMBlocker-7.2.1-fabric-26.1%2B.jar"
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/ewAruo2L/IMBlocker-7.3.1-fabric-26.1%2B.jar"
 hash-format = "sha512"
-hash = "7f1a5b246eb3741c977ddf2dc11fd439cae0f4ecd83200eb96b6a5b7d26cb91be58e1a9c816bc41a871a96be122add6f36f698423225c20ae170f47501371f03"
+hash = "ff1cc9732ef76d4b8a86e61526b3a28ca2c0877fe8cf0de3c736122841a4e34a009ca507073afba19d9b5fc5422f8f0c90a099926ab1c6ca93b94ec60fed896e"
 
 [update]
 [update.modrinth]
 mod-id = "WMDesFsZ"
-version = "BO7fgnmM"
+version = "ewAruo2L"
