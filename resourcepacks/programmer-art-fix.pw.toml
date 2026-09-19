@@ -1,13 +1,13 @@
 name = "Programmer Art Fix"
-filename = "ProgrammerArtFix-26.2.zip"
+filename = "ProgrammerArtFix-26.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/nMUU9xyH/ProgrammerArtFix-26.2.zip"
+url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/b8PS3VmQ/ProgrammerArtFix-26.3.zip"
 hash-format = "sha512"
-hash = "35c2c2a13d141aa13ba461a0cd8387bb9b8d1a78c2dfe23cfcb918e96d4585cbf42bf6f3c1238fd3913d1b93b051e45cf6a00ea53946a5095b0b8e8bbcfec6e2"
+hash = "c7818237aa98cea84d32c969992143338e4f0e1d649eb6ad21aad561beeabf17e072334e19210795bb3b81e368b3a1410594bbef7e20b3cb5f3dd6d4e30b1742"
 
 [update]
 [update.modrinth]
 mod-id = "d1nRD7RG"
-version = "nMUU9xyH"
+version = "b8PS3VmQ"
