@@ -69,11 +69,6 @@ file = "config/modpack_defaults/options.txt"
 hash = "fa1169d684e714df20cd5336154c853fa0d9fdfad2a3239a37ee4fde52cbdc7f"
 
 [[files]]
-file = "mods/advancements-reloaded.pw.toml"
-hash = "901061a72edd2f892b37639524e6336a6b7e7968bcebab577e569d88ad748a60"
-metafile = true
-
-[[files]]
 file = "mods/adventure-platform-mod.pw.toml"
 hash = "3e61d2a169c51a3c0423a4db0e3d9e802bb21b84ae060ed9c962395c8b59362c"
 metafile = true
@@ -86,11 +81,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
-metafile = true
-
-[[files]]
-file = "mods/auth-me.pw.toml"
-hash = "05b93e6d1aa07c595141b1b06527ea9c95dd58ed5ae7f5643773dec85900ca33"
 metafile = true
 
 [[files]]
@@ -129,11 +119,6 @@ hash = "ed76aad14a1e48dafee32104fde0b1cbe33a2c0d51d2bc118ee46449289dddac"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "28525e4ed9a68f5c60ba6c898144d7382980105cceb40cebf38a7bcffbf5eb71"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1e889899cc4d5b00e41148e36f8baa860a82c2412b966090a866849aec821c4d"
 metafile = true
@@ -141,21 +126,6 @@ metafile = true
 [[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "617d08ab09a27d54060faa2461c5121962c521163fa1a277d4033655831f7803"
-metafile = true
-
-[[files]]
-file = "mods/carpet-ams-addition.pw.toml"
-hash = "b88d310171574b0df8e0a26b1704edf29cdc0b9d08b5dfe5aa8577459a1d6ffd"
-metafile = true
-
-[[files]]
-file = "mods/carpet-extra-extras.pw.toml"
-hash = "1f48ff3f6bd69384d11f3123876d69c39274140e8847a28b11cca842ffbd49eb"
-metafile = true
-
-[[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "065eed4e2fd2e5eaf17dad94de72dacc6e339cda19f0d0f65f690476edc3edca"
 metafile = true
 
 [[files]]
@@ -169,6 +139,11 @@ hash = "09d26004e7b68bd6774130bc18f0459768dad00b456e294e7719be24bd72e9bf"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "174625cfd3f201e2864edd08a0e195683ae12bc094d8448c44186717d5ead638"
+metafile = true
+
+[[files]]
 file = "mods/caxton.pw.toml"
 hash = "d9876a8d8fc81e7fa3d8beab49c5c25b8cc3f9afaf3e734ebd7aa8ff99c54126"
 metafile = true
@@ -176,21 +151,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "887a2b410d522667ecc1e31b8aa038aecf31451b707e822e0b269c970aaa2e23"
-metafile = true
-
-[[files]]
-file = "mods/chest-tracker-port.pw.toml"
-hash = "b5aa22d3f1e0a52dd4bba0bf6fd01672e3840f0e005b91291ab643bcc15b6e0a"
-metafile = true
-
-[[files]]
-file = "mods/chloride.pw.toml"
-hash = "37e11b6189a9e299503493d99e790378e3263a253da8e52cb22f42676efbd769"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn-continuation.pw.toml"
-hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
 metafile = true
 
 [[files]]
@@ -214,11 +174,6 @@ hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "627400205086ea8e89b26629123bca4783d5fded6206bce6464249f39161e567"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "06ade29d4e8d6d5494c7475b68d4ab2087f38ad94183c139517385dbee153f4c"
 metafile = true
@@ -226,16 +181,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "de893e3ffe8c044bebbd37e7f3b1f1c51fab05c5765dd587494b19e0529ea5e0"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "aec1df84ab0edd3ab36d80a08765ab0ae3754c2bdbb4e9f568e979f01f470234"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "3f665d8302414c776dca64a66d1d70b98554bf83ff4f183477f57c9d1ac4f6e5"
 metafile = true
 
 [[files]]
@@ -264,23 +209,13 @@ hash = "b16ee79f04344fd9fc643ece06e88824efa8aa240bb39945d4b0b6c8e130bfea"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "a203d4ba81ff70c255ca073d1d1d745cf9ebe88b9f256a8a758c8ccffbacd5f2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "03565c21056d2390feffd1699e0c2b7f88f5a39b548688bebcb34707937b567f"
-metafile = true
-
-[[files]]
-file = "mods/fabric-carpet.pw.toml"
-hash = "3d1745044710eccfd5bb6f325ac999e1288ffef7f06a32f649bfc168f709ca49"
+hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
 metafile = true
 
 [[files]]
@@ -306,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "c24ea8653b0d460e945a9aa52ad9b15b4e85801257fb63af7fb6044a16a8dedf"
 metafile = true
 
 [[files]]
@@ -374,11 +314,6 @@ hash = "abd08c305d1aed7dd7d118b15da9c31518f806c42dc9c20870558c679c25c532"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "807a319ce0e802960796fc6a609e7d96a8566f161ddc60424ebc1d4fae2da80a"
-metafile = true
-
-[[files]]
 file = "mods/locator-heads.pw.toml"
 hash = "3384a1e616e1488cae09de5b3ca88e1e9d94e4c9d29258c949e94bdc986eca32"
 metafile = true
@@ -386,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
-metafile = true
-
-[[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "478081de97d4987a2aca06cf0c17880bf37faa71c3adf40ca698f83ce606ca97"
 metafile = true
 
 [[files]]
@@ -444,18 +374,8 @@ hash = "e06dd3579b40f679b0b2f61914a4e2fcdc8f7130561ed5f5805d26d517d0731a"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
-metafile = true
-
-[[files]]
-file = "mods/one-world-folder.pw.toml"
-hash = "efb6c0c3dd817f1b7df24c8bd0b9e2750cef6826d2fe4086ad8dee3ce926f843"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
-hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
+hash = "adc68c850f1f1fabd3e92c1d94861f770b3580d7b614fbf5191f3f420d1c318e"
 metafile = true
 
 [[files]]
@@ -469,11 +389,6 @@ hash = "18b7b1cb3d6739c4157469948547b837f56ad684e2de0a35d960371424b61027"
 metafile = true
 
 [[files]]
-file = "mods/pistorder.pw.toml"
-hash = "432d7e0a3487289955161dac8a92bdf2edd1f2a1ce5211e1e06c2a25ed8eb20e"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
@@ -481,16 +396,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "279d7c9d5c8f3c2ba00181c7be8b4de3d6f51174301cb9eff632db1cb34a5477"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "92b8b681374fa78077bbe9612ef5d44569f31985d78ebe8b664f6a985bf9cfee"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "c073991fa32b6b27239b95cbde5e2b7f94387e66c6e57ceb3c61653da07e3cc6"
 metafile = true
 
 [[files]]
@@ -544,11 +449,6 @@ hash = "12d96954554a58d001e36b50eb9343ad8306e043799142b183523575804dbaa0"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "47c232fad83c7aca3c6b1a41d60d7c8c476ab0893f711429b1c014186475751c"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e55e25489644c7297a7f4cda6618437891fd0aba88e7f670a0439c3eadc14fc0"
 metafile = true
@@ -594,18 +494,8 @@ hash = "7c6a811e10c1bf34f25a947ceed885aaf4ca4e9cd8b1e48b0253b9128b50aab5"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "4b94e04c917dceac74d2e17424304f4c50d29b161cf4c4578ba9780efc7947d5"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d9d97625ca8e65c474f373012b72c02dc6b8bce909d5acc91561bc4e3d0cb705"
-metafile = true
-
-[[files]]
-file = "mods/x+-autofish.pw.toml"
-hash = "81f728de16a0b830bfb2a403c34ec098b930db915098c622ba8f12baa87cd127"
 metafile = true
 
 [[files]]
@@ -621,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "827a9a88a90b2382846eeb8bddc3e744e47ac382c64a3361614577d2676a2b96"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "af6d841b3b627c1f53fb09c97f2b4d35c9056d94ab0fc05a274cf8086527e473"
 metafile = true
 
 [[files]]
