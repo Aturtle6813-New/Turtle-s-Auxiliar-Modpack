@@ -1,13 +1,13 @@
 name = "Bedrock Miner"
-filename = "bedrock-miner-v1.6.1-mc26.2.jar"
+filename = "bedrock-miner-v1.6.2-mc26.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G4udXdNu/versions/pFPAQLRF/bedrock-miner-v1.6.1-mc26.2.jar"
+url = "https://cdn.modrinth.com/data/G4udXdNu/versions/IM8mHgCz/bedrock-miner-v1.6.2-mc26.3.jar"
 hash-format = "sha512"
-hash = "3c4a6dd348e8be925cea3f4ba649bfa55c366a35322d048ad978a3a70d8c3878159d905f5dce76b2275d7f4deb9128130d5ea9b96e9d226c38634c3684a9518e"
+hash = "d5d9f3f8f2e2518cdd4dcbba9ec286ccf711368f263c91b96bd2cfeb5b9323e84b6f6501f61c512482d4c83f6b7bbfb3737f69e955e7dc7d5d098e20e3f129c5"
 
 [update]
 [update.modrinth]
 mod-id = "G4udXdNu"
-version = "pFPAQLRF"
+version = "IM8mHgCz"
