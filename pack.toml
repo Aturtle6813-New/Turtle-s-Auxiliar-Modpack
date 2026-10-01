@@ -1,12 +1,12 @@
 name = "Turtle's Auxiliar Modpack"
 author = "Aturtle6813"
-version = "mc26.3-26.3.0-alpha.4"
+version = "mc26.3-26.3.0-alpha.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a7a4011c1a8ff83b83c216f59cd6caaf5711589504c127b668efadbf1cbd0cc"
+hash = "0f4172204aef74cdaab146d1408092d085184909e8d77575179307438b08118a"
 
 [versions]
 fabric = "0.19.5"
