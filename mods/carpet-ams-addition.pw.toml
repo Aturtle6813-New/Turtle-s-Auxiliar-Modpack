@@ -1,13 +1,13 @@
 name = "Carpet AMS Addition"
-filename = "carpet-ams-addition-v26.3-mc26.3.jar"
+filename = "carpet-ams-addition-v26.4-beta.1-mc26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q4fx1eTg/versions/uEviQm1u/carpet-ams-addition-v26.3-mc26.3.jar"
+url = "https://cdn.modrinth.com/data/q4fx1eTg/versions/vkHHUt5c/carpet-ams-addition-v26.4-beta.1-mc26.3.jar"
 hash-format = "sha512"
-hash = "ff0c0d953e23c3667e283994e6e348d282a114d78ae40e6453c1b2a1f0525e91383239b670cf348ad198d9941c5a084f2a9611c0776f6b4e0963f8a0541e41e8"
+hash = "7d6460a1cdcb45fe8fee9b2a7bdbdaccd7912637f7df6f49b523d595ad09e847e82e4264b7227187dbaea66afb078b92c29af5e5a27beed267db2e3cf788cfe2"
 
 [update]
 [update.modrinth]
 mod-id = "q4fx1eTg"
-version = "uEviQm1u"
+version = "vkHHUt5c"

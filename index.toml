@@ -69,6 +69,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "fa1169d684e714df20cd5336154c853fa0d9fdfad2a3239a37ee4fde52cbdc7f"
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "d6b726bc893028fef1cc66bc49d1a0d771b467bb80228138934cd031727f690a"
+metafile = true
+
+[[files]]
 file = "mods/adventure-platform-mod.pw.toml"
 hash = "3e61d2a169c51a3c0423a4db0e3d9e802bb21b84ae060ed9c962395c8b59362c"
 metafile = true
@@ -124,8 +129,13 @@ hash = "c3126752c92db3ec9c1a776e55ce280bdcff43589e54bf8f4b1e0b0d54a33e01"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "7412c982b4fb5331fdceec4edc1d26746e4c62fbda5bad1f8789ed5e27d7adbb"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "67cd707b00e8a67a867a53bfb4da7a596ac80f3ff4bcbcd76fbfd40780600453"
+hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
 metafile = true
 
 [[files]]
@@ -135,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
-hash = "bff5c0ed568ea802bfbaf2717fbbc673b4e6a27a03e963ad57bb3beebeea5413"
+hash = "d391ec065865c615e5002e8ea6f9d44c3dc90c69127bab1d82ab8315a1d986ca"
 metafile = true
 
 [[files]]
@@ -165,7 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d02f19ad1ced26842ec50539cdaf16b208fbf80b67eea02f2755f839d6888c68"
+hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker-port.pw.toml"
+hash = "efdc8980480b0ab922de342294cc5ec1e8a091f4287606d84a21a051c657ce56"
 metafile = true
 
 [[files]]
@@ -220,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "e2c435e1f40d3b0a5999d78f6e0359d185c601bfa0ef414550c80d47a1096f8a"
+hash = "7a9916d02fd1da89ea50b6d7f45c3d1985eb4d273ebf01e44da6327b9d35cf4b"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b16ee79f04344fd9fc643ece06e88824efa8aa240bb39945d4b0b6c8e130bfea"
+hash = "eb9fd7324d0bc7717b3f128aea47edae105c4800ab55590f1ba6cc1448d6bb7a"
 metafile = true
 
 [[files]]
@@ -235,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a203d4ba81ff70c255ca073d1d1d745cf9ebe88b9f256a8a758c8ccffbacd5f2"
+hash = "174132163654f70d74e319cabd754b78abae9b690c9017642e7a22a51ffbb43c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -285,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6a00e79ede036ca000b0340f10080d4702665e567e9c0a1738a6dd03d977b26a"
+hash = "c58c2833133c443be550bcdec3a2438b2dadeae2ebc2c6799e820cce86ce4b95"
 metafile = true
 
 [[files]]
@@ -320,12 +335,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4fd99baf07b5fa2ab60aaba245432bdd8864951dd52c9ff48ec2087953a22d00"
+hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "29534ce1611bed7ed37907a0c6c991b3da199f480a8f0ef00e695e63e40183d1"
+hash = "920a7d0236da6c39c0eb2397d29ea755613489fd9203d6a23a50729876f3c7d7"
 metafile = true
 
 [[files]]
@@ -341,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "abd08c305d1aed7dd7d118b15da9c31518f806c42dc9c20870558c679c25c532"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "4cedced44c8763e3bfa60458f895d623da405e61d17cb22f9e6adc559cffcfc3"
 metafile = true
 
 [[files]]
@@ -360,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "abaff630ec5a2f28ada62238b81a05313d5609282fa182ca64ba1bab7953d9ee"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "181f2261705517708850b7ab8e439e184508093cb16ff0c841c176e8c8296b0d"
 metafile = true
 
 [[files]]
@@ -419,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f32ebeb468312cf555bd84d09c1a3a6e6f9ed992e4afc3ce9620aca571490806"
+hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
 metafile = true
 
 [[files]]
@@ -609,17 +634,17 @@ metafile = true
 
 [[files]]
 file = "mods/x+-autofish.pw.toml"
-hash = "6ccfe3603d1e5aecea59af3b5d1e084c1d7c22b902ecdda17dd96fe52addc28a"
+hash = "8ca45cecb5c6ac855f48d466221626cd35bbec8d6da73ee6b4a1506ad209a25e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bdbe9bf5a114d1620eca4f31b2bd53bc7b761b9e46248c163d86a9373d75a646"
+hash = "9ae9a521dbac76f67fa6968a45c56d650595d818701fe129066b4ae85a20cb77"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "41842829e7cc81969c86910a8afc8b9def5204e86c60e7e7f975529c4656dc71"
+hash = "6aa995b2c0a626fc7ce06299bd0054b01f3899bfb3b6fd3ee1901f150df3b214"
 metafile = true
 
 [[files]]
@@ -634,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "b7ffa132a714793a8765befdd471d52c2e4ba81132ad19f639e4f22e29b6ffe3"
+hash = "9340ec50bcad12369714aa7975a8e53d6fd20473f6f4a65c18f5eaeaaab8295a"
 metafile = true
 
 [[files]]
@@ -699,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6dd0d3d87c7de55c77375a9f781ef19d4b7d0e29720b506ed08780adcb27879b"
+hash = "3f2875843763208898198269e5ec4c701ba126f192a0ae7fd95b6a8b1113126d"
 metafile = true
 
 [[files]]
@@ -714,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ziyun-redstone-cover.pw.toml"
-hash = "06c9f8089ebe431b32033c11bbcdcd5ffb19558531832e6ef2d17aeb8907d965"
+hash = "b5a64f50bf3ed748f5d72eafb2804c6fe9bf607712aec17bde3820bc92e2849f"
 metafile = true
 
 [[files]]

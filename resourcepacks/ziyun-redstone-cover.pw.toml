@@ -1,13 +1,13 @@
 name = "Redstone Display Overlaid"
-filename = "解压(Decompression).zip"
+filename = "Rto-v2.0-26.x.x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/94JNbLEj/%E8%A7%A3%E5%8E%8B%28Decompression%29.zip"
+url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/4RXsSnQE/Rto-v2.0-26.x.x.zip"
 hash-format = "sha512"
-hash = "942195cf2e215be6c5d704c7f1b72648dec6e25ed9badc21877cb920ba610c9dc5bbf826742e45e58cc818373022d5d0e22a95873d41899e544c02342d233c54"
+hash = "d292fdd5c7584158462f53088c20387b4f63f6a0b1d5d3bd39abfaa528f621881557825a4fd994b6e5c2a95af24978605e2da439fb6c3a93bd7fdf21d2cf2c76"
 
 [update]
 [update.modrinth]
 mod-id = "4PRyIWGr"
-version = "94JNbLEj"
+version = "4RXsSnQE"
