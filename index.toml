@@ -309,6 +309,11 @@ hash = "1c2e2797a06b9611d8b759851e0ad5cb3fbf3a9dd36f5fd40dc41c6cfde4fd5d"
 metafile = true
 
 [[files]]
+file = "mods/i18nautoupdatemod.pw.toml"
+hash = "0b91d3c331615429f6c8f7c217969303aede81d74ae3f5460cf98f616827306e"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "76ba964a586d7d890bc9b38e3c0b0df1e527d0b651189d2ae73e2c769d2bb4a6"
 metafile = true
