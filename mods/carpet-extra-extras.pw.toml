@@ -1,13 +1,13 @@
 name = "Carpet Extra Extras"
-filename = "carpet-extra-extras-26.3-1.4.2.jar"
+filename = "carpet-extra-extras-26.3-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2O3YTVOd/versions/GDVe59DM/carpet-extra-extras-26.3-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/2O3YTVOd/versions/qTP1zKGB/carpet-extra-extras-26.3-1.5.0.jar"
 hash-format = "sha512"
-hash = "32051060a6ed488e14d25f30f209215278081ecde652f1bdf638e8ae77b7ac7f6b5f75d71bbbaf329042dda7dcdcc716546a256f3bb1095f5d2eca89368d6d9c"
+hash = "8e8514d81c2c7caefc33aafaa38f06fefc587ae8cc4b82bf222d18b5bc5bd056ac1c73b085460be57ddcdda47e7e54bacc10dbcaa175533b881b5ebba98e3dda"
 
 [update]
 [update.modrinth]
 mod-id = "2O3YTVOd"
-version = "GDVe59DM"
+version = "qTP1zKGB"

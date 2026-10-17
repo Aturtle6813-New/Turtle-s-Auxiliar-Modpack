@@ -1,13 +1,13 @@
 name = "I18nAutoUpdateMod"
-filename = "I18nAutoUpdateMod-1.1.0-all.jar"
+filename = "I18nAutoUpdateMod-1.2.0-all.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mEn7eS3l/versions/gRRRsJMs/I18nAutoUpdateMod-1.1.0-all.jar"
+url = "https://cdn.modrinth.com/data/mEn7eS3l/versions/qshXWKBm/I18nAutoUpdateMod-1.2.0-all.jar"
 hash-format = "sha512"
-hash = "7ab2555e9bada49bd3b58c7c77980b622e2b16631e5ac50d7d94843d0bb664a3e66b84f9f7113dcf192a93759026dff31db7907a9cb3bb56a775b04ed0d54493"
+hash = "bfe0d81e5693584a41a8060c59d4998ffe75e424167ac42d4f23b5fdfd764bf49ecf3845843cccf00de9df1fad7827559fa0fd701926fb7fa740860d5521fd6b"
 
 [update]
 [update.modrinth]
 mod-id = "mEn7eS3l"
-version = "gRRRsJMs"
+version = "qshXWKBm"

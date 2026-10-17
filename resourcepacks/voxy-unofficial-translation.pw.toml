@@ -1,13 +1,13 @@
 name = "unofficial translation of voxy"
-filename = "voxytranslate1.7.zip"
+filename = "voxytranslate1.8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xCJJc5Mh/versions/GPJQQP3w/voxytranslate1.7.zip"
+url = "https://cdn.modrinth.com/data/xCJJc5Mh/versions/Sr0tnqTB/voxytranslate1.8.zip"
 hash-format = "sha512"
-hash = "55e6ad3153378ac68925100add0b4e5088865b7b12750057b5e351ec2ac30f6392e577cd8b1b571dd168ca78cff2758debfbb7adf9972ab75617c10565f9c0f7"
+hash = "78186ca16ba91d393ad03ba06a768ca3e960a5e2e22833d28e51d1e77729535dff8c589e672bf97c0bd640e8a2c11879e72fea7d1c2c4c70b115395ab915827d"
 
 [update]
 [update.modrinth]
 mod-id = "xCJJc5Mh"
-version = "GPJQQP3w"
+version = "Sr0tnqTB"
