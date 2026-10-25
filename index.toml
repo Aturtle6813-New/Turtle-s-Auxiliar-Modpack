@@ -89,6 +89,11 @@ hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
 metafile = true
 
 [[files]]
+file = "mods/areed-corelib.pw.toml"
+hash = "67a6ad212bce8f9943fbb2e23c77914d3aa5a983a5c6c7be79f43268d27deb5a"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "92fa9c5877187ad9d6ec3a5e051d3c2f3e2fd309893dc2257fa0a86028dbf5c1"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/chest-tracker-port.pw.toml"
 hash = "efdc8980480b0ab922de342294cc5ec1e8a091f4287606d84a21a051c657ce56"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn-fork.pw.toml"
+hash = "41dc7b853f2f281f5523580c7997d8e39839058a609ca38b2144b0338afbd224"
 metafile = true
 
 [[files]]
@@ -383,6 +393,16 @@ file = "mods/litematica-printer-1.3-beta.5-mc26.3-1794-bacf415d-pr.jar"
 hash = "a49eee9d0f36167bd336ff69993925321b1f14941d97dfb3fe382c6365574beb"
 
 [[files]]
+file = "mods/litematica-printer-4th.pw.toml"
+hash = "97d21702465304fb65ae2cbd7b67336a3dc85c7131f90ff8cbbaa18989f454e7"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "68a952ed8ade65af47b537cce26013607897d3eafc76a84b5e22ea7bd97bb68e"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "5f52a5a69d6ea21c65a9df879fb9b334ed2aaf3ddb50bf13c9e2a57cc079a50d"
 metafile = true
@@ -540,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "91f6defb56c64900bd1ad69147acf1c151b5b372b3ec405933d92ef9308617ae"
+metafile = true
+
+[[files]]
+file = "mods/server-dynamic-lights.pw.toml"
+hash = "095bc8726eecd61ba70c94a5f54afcb610c79fab19d4bc4afbff8469c020eaa8"
 metafile = true
 
 [[files]]

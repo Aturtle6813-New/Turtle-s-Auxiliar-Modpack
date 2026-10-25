@@ -1,0 +1,13 @@
+name = "CIT Resewn fork"
+filename = "citresewn-continuation-1.2.2-fork.14+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2QuUIZCY/versions/sZ4LgUrM/citresewn-continuation-1.2.2-fork.14%2B26.3.jar"
+hash-format = "sha512"
+hash = "c053a0f8693b37e1f4e1663914056d770c2a11456ffe6ed12b41547c983d3665ae3c53d899dc5c69ba53fee6f8471ce34847723b52cb26aceda900492a18842e"
+
+[update]
+[update.modrinth]
+mod-id = "2QuUIZCY"
+version = "sZ4LgUrM"

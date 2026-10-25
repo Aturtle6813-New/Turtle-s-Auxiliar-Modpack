@@ -1,0 +1,13 @@
+name = "Server Dynamic Lights"
+filename = "dynamiclights-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hGIXAnyX/versions/cEF5DlUB/dynamiclights-1.1.1.jar"
+hash-format = "sha512"
+hash = "822d1a418fb9fec1b59d26d8600db01adaacd28ba469a5022f3ce2dffb2293e44c5972aac677bc7113fa23df7020b026546a9dfb67fe2080d640d328294d3e91"
+
+[update]
+[update.modrinth]
+mod-id = "hGIXAnyX"
+version = "cEF5DlUB"

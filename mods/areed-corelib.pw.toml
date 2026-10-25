@@ -1,0 +1,13 @@
+name = "Areed's CoreLib"
+filename = "CoreLib-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMbmkZAM/versions/1Kat90rl/CoreLib-1.3.0.jar"
+hash-format = "sha512"
+hash = "9b6c538deb8bc75401e8f3e2ffc143ee4a7078b9ef97e4b422eb86ca5d6e1d60b0a65506f6b015d05262b0f4ae9a158d25cdc7d0067f386d94bf3ec11e2f4652"
+
+[update]
+[update.modrinth]
+mod-id = "AMbmkZAM"
+version = "1Kat90rl"

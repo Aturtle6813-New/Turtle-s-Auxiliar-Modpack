@@ -5,6 +5,11 @@
       "-depends": {
         "minecraft": ""
       }
+    },
+    "pistorder": {
+      "-depends": {
+        "minecraft": ""
+      }
     }
   }
 }
