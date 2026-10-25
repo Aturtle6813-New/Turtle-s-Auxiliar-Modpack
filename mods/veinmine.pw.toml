@@ -1,13 +1,13 @@
 name = "VeinMine"
-filename = "Veinmine-26.3-1.4.2-universal.jar"
+filename = "Veinmine-26.3-1.4.2.1-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jjXSQOGX/versions/tf12bbDU/Veinmine-26.3-1.4.2-universal.jar"
+url = "https://cdn.modrinth.com/data/jjXSQOGX/versions/9TqeUYLD/Veinmine-26.3-1.4.2.1-universal.jar"
 hash-format = "sha512"
-hash = "f9d651482e44b919cd0b4d99028186a4c3c03601dd3ccd14de88e7085162132a9f9806a781e245edc4aa1cd69a3b69208d7d63d57fb6f21dcb619a775ee753bb"
+hash = "e2ab9dc024ecdc49a9b97bfc574d1fe8a3029ead55912b6e57ea40057b26cf72b54567f70040b48764738868428f2fd5893cf294208f81d3e27c26218fa39f5f"
 
 [update]
 [update.modrinth]
 mod-id = "jjXSQOGX"
-version = "tf12bbDU"
+version = "9TqeUYLD"
