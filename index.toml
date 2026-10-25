@@ -6,7 +6,7 @@ hash = "673968430a4f3c168709354aa586dfb138bbdc0dc80b0690fad8e3f63e4b5c36"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0086d51c718cd1c9f62a51bb2745b65889cffce3ce5a2ef9ca9223a3c7401c15"
+hash = "f08dc9c4120987f1224a7e54b0e6e312dab0b181453d3788b234e7c03375d64c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -67,6 +67,10 @@ hash = "b19f69acb279f35ec871962cd6ef0ac7cd396a6d3f5d0a8e68de40c2d197e30e"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "fa1169d684e714df20cd5336154c853fa0d9fdfad2a3239a37ee4fde52cbdc7f"
+
+[[files]]
+file = "mods/MasaGadget-mc26.3-fabric-4.0.0-development.jar"
+hash = "428002473e4602198c71b8ec9f94a0eeab10ea5f012e439b1ab3c201d15f0a85"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -152,6 +156,10 @@ metafile = true
 file = "mods/carpet-ams-addition.pw.toml"
 hash = "b3ff1fde0aa633b986a9742df7d7bf694016865a78b5dac352c42ca225589b97"
 metafile = true
+
+[[files]]
+file = "mods/carpet-extra-26.3.jar"
+hash = "f2796b229c600709b0160fc3b7e83c41e5c6ae853584505ea1a16981c2716bf3"
 
 [[files]]
 file = "mods/carpet-extra-extras.pw.toml"
@@ -279,6 +287,10 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot-0.0.0.jar"
+hash = "ce4fae06a97d803b95164b21d81b7fbfbadb0b7cee7862c124204e09b0d50228"
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "6d58bcab9d99ca3a3ecc3cf6e5391bd0f2aae6b1da3ed20d763022bc9605ecdb"
 metafile = true
@@ -398,11 +410,6 @@ hash = "97d21702465304fb65ae2cbd7b67336a3dc85c7131f90ff8cbbaa18989f454e7"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer.pw.toml"
-hash = "68a952ed8ade65af47b537cce26013607897d3eafc76a84b5e22ea7bd97bb68e"
-metafile = true
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "5f52a5a69d6ea21c65a9df879fb9b334ed2aaf3ddb50bf13c9e2a57cc079a50d"
 metafile = true
@@ -498,6 +505,11 @@ hash = "a56f2d77bd25309bbdc032d95a4dadcc6be31238279a6120172198c5a9bdf2a0"
 metafile = true
 
 [[files]]
+file = "mods/oh-my-minecraft-client.pw.toml"
+hash = "9f8a6adfbadc656e354d750ae1da92f7517e5d75b6ac9d665f7e1b85c3f36477"
+metafile = true
+
+[[files]]
 file = "mods/one-world-folder.pw.toml"
 hash = "33f02b60196860b4e74e4c4a2ef0c6d8799a7abc831195764d74c460b8d304e1"
 metafile = true
@@ -518,6 +530,11 @@ hash = "18b7b1cb3d6739c4157469948547b837f56ad684e2de0a35d960371424b61027"
 metafile = true
 
 [[files]]
+file = "mods/pistorder.pw.toml"
+hash = "432d7e0a3487289955161dac8a92bdf2edd1f2a1ce5211e1e06c2a25ed8eb20e"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
@@ -530,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "54fc7617c58ca024cd8e2a1f1dfcfd682cdc4df59d10ccedce9f21ca0741ed1b"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "f1a9964d28bed6378fa94af7af9d5de31deec4d9e7e7d90b7c1ef3e7e14140d8"
 metafile = true
 
 [[files]]
@@ -671,6 +693,20 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "d9d97625ca8e65c474f373012b72c02dc6b8bce909d5acc91561bc4e3d0cb705"
 metafile = true
+
+[[files]]
+file = "mods/voxy-extra.pw.toml"
+hash = "057fa6e7ef7096010afd5f1a16eae641283f89f3c880d2709101f30555cc4857"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "19ae82550e2d7e5a444bb3c5c49777ecf6dfd6334e286ad499ca17235587d2ed"
+metafile = true
+
+[[files]]
+file = "mods/voxygen.toml"
+hash = "b122c36d5a4454fb8a40bf1e6738e2ae8a68e97a2f85c3285ba839068e30dde8"
 
 [[files]]
 file = "mods/x+-autofish.pw.toml"
