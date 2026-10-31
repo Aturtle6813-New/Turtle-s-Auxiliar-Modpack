@@ -11,3 +11,8 @@ hash = "b4915c8251614a3457c7c226f62b7c39c44219a7e5cc6e9a099f55f7a5d171b58e8df7ca
 [update.modrinth]
 mod-id = "oSIKhgz3"
 version = "Q3nKuPKJ"
+
+[option]
+optional = true
+description = "You need to disable one of them in it and Vitrail or game will crash"
+default = true

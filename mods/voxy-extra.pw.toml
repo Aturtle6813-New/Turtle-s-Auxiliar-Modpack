@@ -11,3 +11,8 @@ hash = "c03786aa11c8640d9e41ed399fc4e696eee7761beb684240e7b7aa6484f5117443f6e484
 [update.modrinth]
 mod-id = "znQnhrkQ"
 version = "F8Ri3jml"
+
+[option]
+optional = true
+description = "1"
+default = false

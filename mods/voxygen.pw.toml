@@ -11,3 +11,8 @@ hash = "4efa9466f7d882eef478a6aad6fbf352fb1e1f5b112abef52cad7bbb85056a6e0fcbe73d
 [update.modrinth]
 mod-id = "xT0lnNE9"
 version = "FZLopf8z"
+
+[option]
+optional = true
+description = "1"
+default = false

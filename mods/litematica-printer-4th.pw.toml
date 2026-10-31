@@ -1,13 +1,13 @@
 name = "Litematica Printer 4th"
-filename = "litematica-printer-1.1.3+26.3.jar"
+filename = "litematica-printer-1.1.3-hotfix.1+26.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Im0hpzfN/versions/EmYXPS5r/litematica-printer-1.1.3%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/Im0hpzfN/versions/1PnMozjQ/litematica-printer-1.1.3-hotfix.1%2B26.3.jar"
 hash-format = "sha512"
-hash = "2521e3dd27eed1bfffad216636a5e6be707af74c09d188a56deff7de8a1630ac271e5aba7aa0af2fc1bd872bb7ee2bbeeb7ce486d8d83d6d19f96d8e04202406"
+hash = "d03d2f061bf7280154fa5c591f91c13e943873a65d843bec0947840feca93eb4f1a05abda6d4805cff719fa1c27947637c17e68a6c4422f987199ff6baac86cc"
 
 [update]
 [update.modrinth]
 mod-id = "Im0hpzfN"
-version = "EmYXPS5r"
+version = "1PnMozjQ"

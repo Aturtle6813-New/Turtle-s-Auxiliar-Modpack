@@ -1,13 +1,13 @@
 name = "rE-oCd"
-filename = "rE-oCd-262.zip"
+filename = "rE-oCd-263.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lkoaSYls/versions/CBZsB4cr/rE-oCd-262.zip"
+url = "https://cdn.modrinth.com/data/lkoaSYls/versions/7a17Zk1U/rE-oCd-263.zip"
 hash-format = "sha512"
-hash = "1d458e47d15dc0c6532ceb0762db43a185974071a08fc7cce13c96796445ffd316708287f43534491e7251bb75ab85d0e0af00bfc42ab3aa1ef9b37c0c70e0ac"
+hash = "c5e94ac84ebd4d1a1aa35f7358e78c266847a9954a2a47ff01fb2fa8f5fc420b0fa5dad39d2a978bf2bd3d4b29849506f5228cba06fa52f1380515b1bf8041e7"
 
 [update]
 [update.modrinth]
 mod-id = "lkoaSYls"
-version = "CBZsB4cr"
+version = "7a17Zk1U"
