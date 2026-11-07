@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d70fc5809299269a7867133453ab35c186a0eb55a6894ce7b998091e5acd5b3b"
+hash = "d42635f415c03bff51cb7e569a58d33f5f2204388c6a685b95598e7137666a15"
 metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "97f708a1727aa9451dbe33b213b0679d4a46a0cf524d945164838020dd46dd4a"
+hash = "5c69e1dc7a534ea07abcfff526b5e2c4be3702e79132264934394330e950a7c1"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "09d26004e7b68bd6774130bc18f0459768dad00b456e294e7719be24bd72e9bf"
+hash = "110845f3d8e17628e966af73a4392c7aaad3703659a6163eed1edbc3260ff853"
 metafile = true
 
 [[files]]
@@ -273,12 +273,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
+hash = "c029d9c7873a6f072332e97d54422efa438bc8ae81d53bd1c078a6dd1644f0ce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "87792e77ca313b51606e0ca1b599fed1d5a1ef4a135e9e18cfb8ac0c6112bc43"
+hash = "72b80d943ef7c89cb7be8b5a6a15cdf035309809a7a5041bf18239fb87840fbc"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "1aed8e425e3ba52c904c6fc928642932d148db140f788a204dfd828292b16f19"
+hash = "3bb2439ed9e9fb3fa980112396aead7723bd206289b4055db74b3f560b472f7f"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2ccb26645ce8f7d3ad858016f4e16b11e5260d18d92b46e9a1cf30345d41cf82"
+hash = "742b12928fa5f288671d113e7aa3bf18d83219f7e064964b84f61050f314df2e"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
+hash = "a0fefd25252e1dfac7da103d64436b9d7579b5cf404fd664139c4db079f40897"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
+hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "cf295e2cbd3e5883df610374a30e7f15b57d78b8aa6017c46c9b88bdbfd98268"
+hash = "047a712ed735a1232e6740bd7e0035e0e3923a6791509e1961c6869a3a475c8e"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "435a3f840613486ed00c68c6eea16324083b9a5a745503b22942d6b53c06b5ed"
+hash = "817c682d213e4d8ef43a4b1c674c17970b2368dee45b793f53e009f4f4a95384"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c35023baaf723eeea67228e39ac96914a0dbcd667a53907b7665b0554355c888"
+hash = "252f40abf8c2004662420ff41f340580c7a254220f8ba5a679366e20bd2849d1"
 metafile = true
 
 [[files]]
@@ -841,5 +841,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
+hash = "085114584baeb503e8e92c8f1c440a3aa4414a85093043bbde627d268766d482"
 metafile = true
