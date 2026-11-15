@@ -1,13 +1,13 @@
 name = "Bkups"
-filename = "bkupsV3-fabric-mod-26.3.jar"
+filename = "bkupsLiteV4-fabric-mod-26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qUNT1H6o/versions/TvTbicvE/bkupsV3-fabric-mod-26.3.jar"
+url = "https://cdn.modrinth.com/data/qUNT1H6o/versions/GtevgL8G/bkupsLiteV4-fabric-mod-26.3.jar"
 hash-format = "sha512"
-hash = "36ff88948ab4018d94affe0927309759ee25b62fd3ebde6b06f68fd6cb4892cbaec36cef686d435b554dc5b03c9ef9d016de46914a67c16d708add5024a40eaf"
+hash = "00ca2d65f20f499e4ec5226d97593f94047cd2f22076893dacde88566a530dcbe312a57cdde31e0400c0006e9c57315efd600d66426cf6bad56f96a966a8485f"
 
 [update]
 [update.modrinth]
 mod-id = "qUNT1H6o"
-version = "TvTbicvE"
+version = "GtevgL8G"

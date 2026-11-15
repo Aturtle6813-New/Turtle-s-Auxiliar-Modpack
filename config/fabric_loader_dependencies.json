@@ -6,9 +6,9 @@
         "minecraft": ""
       }
     },
-    "pistorder": {
+    "nvidium": {
       "-depends": {
-        "minecraft": ""
+        "sodium": ""
       }
     }
   }
